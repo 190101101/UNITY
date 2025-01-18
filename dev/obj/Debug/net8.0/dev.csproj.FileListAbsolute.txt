@@ -1,0 +1,14 @@
+C:\Users\190101101\Desktop\C#\dev\bin\Debug\net8.0\dev.exe
+C:\Users\190101101\Desktop\C#\dev\bin\Debug\net8.0\dev.deps.json
+C:\Users\190101101\Desktop\C#\dev\bin\Debug\net8.0\dev.runtimeconfig.json
+C:\Users\190101101\Desktop\C#\dev\bin\Debug\net8.0\dev.dll
+C:\Users\190101101\Desktop\C#\dev\bin\Debug\net8.0\dev.pdb
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\dev.AssemblyInfoInputs.cache
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\dev.AssemblyInfo.cs
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\dev.csproj.CoreCompileInputs.cache
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\dev.dll
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\refint\dev.dll
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\dev.pdb
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\dev.genruntimeconfig.cache
+C:\Users\190101101\Desktop\C#\dev\obj\Debug\net8.0\ref\dev.dll

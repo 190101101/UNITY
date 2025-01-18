@@ -1,0 +1,7 @@
+dotnet run
+dotnet new console
+dotnet new console -n app
+dotnet new console -o dev
+dotnet new console -o HelloWorldApp
+dotnet new console -n HelloWorldApp -o C:\Users\Orxan\Projects
+
