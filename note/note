@@ -16,17 +16,17 @@ base/03 UNİTY - TEMEL CS DERSLERİ/15 List Kavramı
 base/03 UNİTY - TEMEL CS DERSLERİ/16 İLERİ SEVİYE KONUSUDUROPSİYONELDİR Tuple patterns | Desen Kullanımı
 base/03 UNİTY - TEMEL CS DERSLERİ/17 İLERİ SEVİYE KONUSUDUROPSİYONELDİRProperty patterns | Desen Kullanımı
 base/03 UNİTY - TEMEL CS DERSLERİ/18 İLERİ SEVİYE KONUSUDURProperties kullanımı | Değişkenleri özelliklerle yönetme
-base/04 UNİTY ARAYÜZ TANITIMLARI VE ÇEŞİTLİ İŞLEMLER/19 Sürüm ve Platform Yönetimi
-base/04 UNİTY ARAYÜZ TANITIMLARI VE ÇEŞİTLİ İŞLEMLER/20 Console Penceresi Anlatım  Debug çeşitleri
-base/04 UNİTY ARAYÜZ TANITIMLARI VE ÇEŞİTLİ İŞLEMLER/21 Scene ve Game Pencereleri Anlatım
-base/05 UNİTY FONKSİYONLARI VE KODLARI/22 ClassFonksiyon Anlatım ve çeşitli işlemler 1
-base/05 UNİTY FONKSİYONLARI VE KODLARI/23 ClassFonksiyon Anlatım ve çeşitli işlemler 2
-base/05 UNİTY FONKSİYONLARI VE KODLARI/24 ClassFonksiyon Anlatım ve çeşitli işlemler 3
-base/05 UNİTY FONKSİYONLARI VE KODLARI/25 ClassFonksiyon Anlatım ve çeşitli işlemler 4
-base/05 UNİTY FONKSİYONLARI VE KODLARI/26 Using KullanımıNamespace anlatım ve oluşturma
-base/05 UNİTY FONKSİYONLARI VE KODLARI/27 MonoBehaviour  Messages  Temel Fonksiyonları
-base/05 UNİTY FONKSİYONLARI VE KODLARI/28 MonoBehaviourPublic MethodlarCoroutine
-base/05 UNİTY FONKSİYONLARI VE KODLARI/29 MonoBehaviourPublic MethodlarInvoke
+base/04 UNİTY ARAYÜZ TANITIMLARI/19 Sürüm ve Platform Yönetimi
+base/04 UNİTY ARAYÜZ TANITIMLARI/20 Console Penceresi Anlatım 
+base/04 UNİTY ARAYÜZ TANITIMLARI/21 Scene ve Game Pencereleri Anlatım
+base/05 UNİTY FONKSİYONLARI/22 ClassFonksiyon Anlatım ve çeşitli işlemler 1
+base/05 UNİTY FONKSİYONLARI/23 ClassFonksiyon Anlatım ve çeşitli işlemler 2
+base/05 UNİTY FONKSİYONLARI/24 ClassFonksiyon Anlatım ve çeşitli işlemler 3
+base/05 UNİTY FONKSİYONLARI/25 ClassFonksiyon Anlatım ve çeşitli işlemler 4
+base/05 UNİTY FONKSİYONLARI/26 Using KullanımıNamespace anlatım ve oluşturma
+base/05 UNİTY FONKSİYONLARI/27 MonoBehaviour  Messages  Temel Fonksiyonları
+base/05 UNİTY FONKSİYONLARI/28 MonoBehaviourPublic MethodlarCoroutine
+base/05 UNİTY FONKSİYONLARI/29 MonoBehaviourPublic MethodlarInvoke
 base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/30 Objelerin anlatımıScaleMoveRotate ve diğer başka detaylar
 base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/31 Inspector detayları ve Component Anlatımları 1
 base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/32 Inspector detayları ve Component Anlatımları 2
