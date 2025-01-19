@@ -6,13 +6,14 @@ namespace dev
   {
     static void Main(string[] args)
     {
+
       int i = 0;
-      do
+      while (i < 10)
       {
         i++;
         Console.Write(i);
       }
-      while (i < 10);
+
     }
   }
 }
