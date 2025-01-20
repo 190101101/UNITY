@@ -1,0 +1,34 @@
+19 Sürüm ve Platform Yönetimi
+	file -> build settings
+	versiyalari idare etmek ucun
+
+20 Console Penceresi Anlatım
+	consolda errorlar sag terefde search
+	3 noqte settings - log lara baxmaq ve.s
+
+21 Scene ve Game Pencereleri Anlatım
+	scene ekrani idaresi ucun
+	yuxarida shaded kelmesi
+	ishiqi sondurmek, 2d etmek..
+	yuxari solda gizmoz sehnede lazim olanlar...
+
+30 Objelerin anlatımıScaleMoveRotate ve diğer başka detaylar
+	objecte (cube) - e iki defe click ederek focus olur, x,y,z camera.
+
+	objectin rotatesini deyishmek ucun ustune klik edib.
+	solda yuxarida rotate tools var.
+
+	objectin size deyishmek.. scale. solda yuxarida var.
+
+	sagdaki menudan. transform reset ilk halina geri dondermek ucundur
+
+	objecti gizletmek ucun soldaki menu
+	yuxari orta menudan skybox ve digerlerini gizletmek
+
+	objecti gizletmek h keyboard.
+	yadaki. sol menudan object click shift son object click ve h.. hamisini gizledecek... bir bir ise ctrl ile.
+
+	soldaki object menusunda sagda el isharesi var.. o objecti hidden etmir amma secmeyi block edir.
+
+	copy paste ishleride var ctrl x,c,v.
+	objecti rename etmek olar.
