@@ -59,4 +59,6 @@
 	transform ve ya bashqa ayar kismina click edib onun datalarini file kimi pc da save etmek olar. save current to... 
 
 34 Boş Obje Oluşturma ve Görevleriİlkscript dosyası olusturmaHiearchy Child
-	
+	create empty edib sonra onun altina yaratdigin 2d 3d object leri qoymaq olur.
+
+35 Objeye değişken tanımlama ve çeşitli işlemler
