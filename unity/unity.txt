@@ -32,6 +32,7 @@
 
 	copy paste ishleride var ctrl x,c,v.
 	objecti rename etmek olar.
+	ctrl d etmek copy paste etmekdir.
 
 31 Inspector detayları ve Component Anlatımları 1
 	her object in kontrol paneli soldaki inspector panelidir.
@@ -39,3 +40,15 @@
 	assets folderin ustunde mouse right click edib create folder etmek.
 	sonra eyni shey edib material yaradib onu hansisa objectin ustune qoymaq. 
 	inspector dan ise idare etmek. reng deyishiklik lighting ve.s
+
+32 Inspector detayları ve Component Anlatımları 2
+
+	inspectorda tag kisminda olanlar meselen: dushman.
+	kod hissesindede o taglar yakalamak imkani olsun.
+
+	inspectorda layer 3d ucunde faydalidi genelde 2d lerde daha cox istifade olunur.
+
+	soldaki menudan project settingsden tags and layers lerin ayarlarina baxmaq olar.
+
+
+33 Inspector detayları ve Component Anlatımları 3

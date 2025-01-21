@@ -1,11 +1,15 @@
-﻿using System;
+using System;
 
 namespace dev
 {
   class Person
   {
-    public string Name
-    { get;set;}
+    private string name;
+
+    public string Name{
+      get{return name;}
+      set{name = value;}
+    }
   }
 
   class Test
