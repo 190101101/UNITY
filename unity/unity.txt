@@ -50,5 +50,13 @@
 
 	soldaki menudan project settingsden tags and layers lerin ayarlarina baxmaq olar.
 
+	bir objecte olan componenti digerine paste component etmek olar. copy component
+
 
 33 Inspector detayları ve Component Anlatımları 3
+	inspector da her hansi object e component elave olunubsa ordanda remove component etmek olar.
+
+	transform ve ya bashqa ayar kismina click edib onun datalarini file kimi pc da save etmek olar. save current to... 
+
+34 Boş Obje Oluşturma ve Görevleriİlkscript dosyası olusturmaHiearchy Child
+	
