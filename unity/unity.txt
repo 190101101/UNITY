@@ -10,7 +10,7 @@
 	scene ekrani idaresi ucun
 	yuxarida shaded kelmesi
 	ishiqi sondurmek, 2d etmek..
-	yuxari solda gizmoz sehnede lazim olanlar...
+	yuxari sagda gizmoz sehnede lazim olanlar...
 
 30 Objelerin anlatımıScaleMoveRotate ve diğer başka detaylar
 	objecte (cube) - e iki defe click ederek focus olur, x,y,z camera.
@@ -32,3 +32,10 @@
 
 	copy paste ishleride var ctrl x,c,v.
 	objecti rename etmek olar.
+
+31 Inspector detayları ve Component Anlatımları 1
+	her object in kontrol paneli soldaki inspector panelidir.
+
+	assets folderin ustunde mouse right click edib create folder etmek.
+	sonra eyni shey edib material yaradib onu hansisa objectin ustune qoymaq. 
+	inspector dan ise idare etmek. reng deyishiklik lighting ve.s
