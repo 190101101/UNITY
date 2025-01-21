@@ -27,21 +27,21 @@ base/05 UNİTY FONKSİYONLARI/26 Using KullanımıNamespace anlatım ve oluştur
 base/05 UNİTY FONKSİYONLARI/27 MonoBehaviour  Messages  Temel Fonksiyonları
 base/05 UNİTY FONKSİYONLARI/28 MonoBehaviourPublic MethodlarCoroutine
 base/05 UNİTY FONKSİYONLARI/29 MonoBehaviourPublic MethodlarInvoke
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/30 Objelerin anlatımıScaleMoveRotate ve diğer başka detaylar
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/31 Inspector detayları ve Component Anlatımları 1
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/32 Inspector detayları ve Component Anlatımları 2
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/33 Inspector detayları ve Component Anlatımları 3
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/34 Boş Obje Oluşturma ve Görevleriİlkscript dosyası olusturmaHiearchy Child
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/35 Objeye değişken tanımlama ve çeşitli işlemler
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/36 ArrayDiziler ve List Anlatım ve Tanımlama
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/37 GetComponent Anlatımları ve işlemleri 1
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/38 GetComponent Anlatımları ve işlemleri 2
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/39 Obje YakalamaGameObjectFindFindWithTagFindGameObjectsWithTagtransformFind
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/40 Obje YakalamaGameObjectFindFindWithTagFindGameObjectsWithTagtransformFind
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/41 GetComponent typeof FindObjectOfTypeSetActiveactiveSelf
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/42 CompareTag  AddComponent
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/43 BroadcastMessageSendMessage
-base/06 UNİTYYE İLK ADIMLAR -  ÇEŞİTLİ OBJE İŞLEMLERİ-ISINMA TURLARI/44 Gameobject DestroyComponent Destroy
+base/06 UNİTYYE İLK ADIMLAR/30 Objelerin anlatımıScaleMoveRotate ve diğer başka detaylar
+base/06 UNİTYYE İLK ADIMLAR/31 Inspector detayları ve Component Anlatımları 1
+base/06 UNİTYYE İLK ADIMLAR/32 Inspector detayları ve Component Anlatımları 2
+base/06 UNİTYYE İLK ADIMLAR/33 Inspector detayları ve Component Anlatımları 3
+base/06 UNİTYYE İLK ADIMLAR/34 Boş Obje Oluşturma ve Görevleriİlkscript dosyası olusturmaHiearchy Child
+base/06 UNİTYYE İLK ADIMLAR/35 Objeye değişken tanımlama ve çeşitli işlemler
+base/06 UNİTYYE İLK ADIMLAR/36 ArrayDiziler ve List Anlatım ve Tanımlama
+base/06 UNİTYYE İLK ADIMLAR/37 GetComponent Anlatımları ve işlemleri 1
+base/06 UNİTYYE İLK ADIMLAR/38 GetComponent Anlatımları ve işlemleri 2
+base/06 UNİTYYE İLK ADIMLAR/39 Obje YakalamaGameObjectFindFindWithTagFindGameObjectsWithTagtransformFind
+base/06 UNİTYYE İLK ADIMLAR/40 Obje YakalamaGameObjectFindFindWithTagFindGameObjectsWithTagtransformFind
+base/06 UNİTYYE İLK ADIMLAR/41 GetComponent typeof FindObjectOfTypeSetActiveactiveSelf
+base/06 UNİTYYE İLK ADIMLAR/42 CompareTag  AddComponent
+base/06 UNİTYYE İLK ADIMLAR/43 BroadcastMessageSendMessage
+base/06 UNİTYYE İLK ADIMLAR/44 Gameobject DestroyComponent Destroy
 base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/45 ** ARA İŞLEM **  Projeİmport PackageExport Package
 base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/46 ** ARA İŞLEM **  Prefab oluşturma ve anlatımı
 base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/47 Transform Translate Vector3 Static Özellikler 1
