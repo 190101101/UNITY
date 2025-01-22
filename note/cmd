@@ -1,6 +1,6 @@
 dotnet run
 dotnet new console
 dotnet new console -n app
-dotnet new console -o dev
-dotnet new console -n dev -o C:\Users\Orxan\Projects
+dotnet new console -o app
+dotnet new console -n app -o C:\190101101\Desktop\Projects
 

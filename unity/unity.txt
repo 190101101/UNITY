@@ -68,3 +68,8 @@
 	//
 
 37 GetComponent Anlatımları ve işlemleri 1
+	//
+
+38 GetComponent Anlatımları ve işlemleri 2
+	create empty object. parent, child, child.. 
+	
