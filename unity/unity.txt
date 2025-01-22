@@ -62,3 +62,9 @@
 	create empty edib sonra onun altina yaratdigin 2d 3d object leri qoymaq olur.
 
 35 Objeye değişken tanımlama ve çeşitli işlemler
+	//
+
+36 ArrayDiziler ve List Anlatım ve Tanımlama
+	//
+
+37 GetComponent Anlatımları ve işlemleri 1
