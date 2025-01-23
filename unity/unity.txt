@@ -73,3 +73,11 @@
 38 GetComponent Anlatımları ve işlemleri 2
 	create empty object. parent, child, child.. 
 	
+39 Obje yakalama
+	tag ile find etmek daha suretlidir
+	GameObject.FindWithTag("Player");
+	GameObject.Find("player");
+
+42 CompareTag  AddComponent
+	gizmoz yazisina basanda main camera ve light iconu gorunmek/itmek.
+	onceki derslerde yoxa cixmishdi onun ucun yazdim. 
