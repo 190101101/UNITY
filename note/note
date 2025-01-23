@@ -42,20 +42,20 @@ base/06 UNİTYYE İLK ADIMLAR/41 GetComponent typeof
 base/06 UNİTYYE İLK ADIMLAR/42 CompareTag  AddComponent
 base/06 UNİTYYE İLK ADIMLAR/43 BroadcastMessageSendMessage
 base/06 UNİTYYE İLK ADIMLAR/44 Gameobject DestroyComponent Destroy
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/45 ** ARA İŞLEM **  Projeİmport PackageExport Package
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/46 ** ARA İŞLEM **  Prefab oluşturma ve anlatımı
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/47 Transform Translate Vector3 Static Özellikler 1
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/48 Transform Translate Vector3 Static Özellikler 2
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/49 Vector3Özellikler ve Public Methodlar
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/50 Vector3Static Methodlar 1
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/51 Vector3Static Methodlar 2
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/52 Vector3Static Methodlar 3 ve Operatörler
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/53 Transform  Özellikler ve  Methodlar 1
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/54 Transform  Özellikler ve  Methodlar 2
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/55 Transform  Özellikler ve  Methodlar 3
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/56 Transform  Özellikler ve  Methodlar 4
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/57 Quaternion Anlatım ve İşlevleri
-base/07 UNİTY TRANSFORM &amp; VECTOR &amp; QUATERNİON  İŞLEMLER VE KODLAR | OBJE OLUŞTURMA/58 OBJECT INSTANTİATE OBJE OLUŞTURMA | ÇOK ÖNEMLİ | ÇOK SIK KULLANILIR
+base/07 UNİTY TRANSFORM QUATERNİON/45 Projeİmport PackageExport Package
+base/07 UNİTY TRANSFORM QUATERNİON/46 Prefab oluşturma ve anlatımı
+base/07 UNİTY TRANSFORM QUATERNİON/47 Transform Translate Vector3 Static Özellikler 1
+base/07 UNİTY TRANSFORM QUATERNİON/48 Transform Translate Vector3 Static Özellikler 2
+base/07 UNİTY TRANSFORM QUATERNİON/49 Vector3Özellikler ve Public Methodlar
+base/07 UNİTY TRANSFORM QUATERNİON/50 Vector3Static Methodlar 1
+base/07 UNİTY TRANSFORM QUATERNİON/51 Vector3Static Methodlar 2
+base/07 UNİTY TRANSFORM QUATERNİON/52 Vector3Static Methodlar 3 ve Operatörler
+base/07 UNİTY TRANSFORM QUATERNİON/53 Transform  Özellikler ve  Methodlar 1
+base/07 UNİTY TRANSFORM QUATERNİON/54 Transform  Özellikler ve  Methodlar 2
+base/07 UNİTY TRANSFORM QUATERNİON/55 Transform  Özellikler ve  Methodlar 3
+base/07 UNİTY TRANSFORM QUATERNİON/56 Transform  Özellikler ve  Methodlar 4
+base/07 UNİTY TRANSFORM QUATERNİON/57 Quaternion Anlatım ve İşlevleri
+base/07 UNİTY TRANSFORM QUATERNİON/58 OBJECT INSTANTİATE OBJE OLUŞTURMA | ÇOK ÖNEMLİ | ÇOK SIK KULLANILIR
 base/08 UNİTY MATHF | HİDE FLAGS | ÇEŞİTLİ İPUÇLARI | DEĞİŞKEN METHODLARI/59 Mathf  Matematiksel İşlemler
 base/08 UNİTY MATHF | HİDE FLAGS | ÇEŞİTLİ İPUÇLARI | DEĞİŞKEN METHODLARI/60 Değişkenler için çeşitli methodlar Örnek ve kullanımı
 base/08 UNİTY MATHF | HİDE FLAGS | ÇEŞİTLİ İPUÇLARI | DEĞİŞKEN METHODLARI/61 Hide Flags Yöntemleri ve Çeşitli İpuçları 1
@@ -76,7 +76,7 @@ base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/75 2D | JOİNTLER 3
 base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/76 2D | EFFECTORS 1
 base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/77 2D | EFFECTORS 2
 base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/78 2D | EFFECTORS 3
-base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/79 ** ARA İŞLEM ** Sorting and Layers
+base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/79 Sorting and Layers
 base/10 UNİTY GRAPHİC | LİGHTİNG - IŞIK | CAMERA | MATERİAL | TEXTURE | DİĞER İŞLEMLER/80 Material | Texture | Shader | Mesh | Anlatım 1
 base/10 UNİTY GRAPHİC | LİGHTİNG - IŞIK | CAMERA | MATERİAL | TEXTURE | DİĞER İŞLEMLER/81 Material | Texture | Shader | Mesh | Anlatım 2
 base/10 UNİTY GRAPHİC | LİGHTİNG - IŞIK | CAMERA | MATERİAL | TEXTURE | DİĞER İŞLEMLER/82 Material | Texture | Shader | Mesh | Anlatım 3
