@@ -81,3 +81,22 @@
 42 CompareTag  AddComponent
 	gizmoz yazisina basanda main camera ve light iconu gorunmek/itmek.
 	onceki derslerde yoxa cixmishdi onun ucun yazdim. 
+
+45 Projeİmport PackageExport Package
+	unityde up menu da assets/export package edib hal hazirki veziyyeti save etmek olar folderde
+
+46 Prefab oluşturma ve anlatımı
+	scene leri deyishmek olur...	
+	assets de create folder/prefab
+	prefab folderin icinde scenede olan objeleri dashimaq olur.
+	objeye open prefab basmak.
+
+	yeni acdigim transformation scenede
+	benimobjem prefab olaraq yukledim
+	benimobjeye click edib empty object ve capsule yaratdim
+	inspectorda ovverides var ona click ederek apply all etmek olur yeni save.
+
+	prefab folder de olan benimobje ni sehneye alandan sonra
+	unpack prefab ederek onceki benimobje ile baglantini kesmek olar
+
+	her hansi prefab objesinin uzerine right click edib select prefab assets click ederek hangi dosyadan turetildiyini bilmek olar
