@@ -3,7 +3,7 @@ base/01 GENEL BİLGİLENDİRME/02 Örnek | Oyun Kazanç Tabloları
 base/01 GENEL BİLGİLENDİRME/03 3D2D oyun nedir   aralarındaki  fark nedir 
 base/01 GENEL BİLGİLENDİRME/04 Oyun Türleri Nelerdir 
 base/01 GENEL BİLGİLENDİRME/05 MERAK EDİLEN SORULAR VE CEVAPLARI
-base/02 UNİTY KURULUM VE TANITIM/06 Unity HUB Kurulumu  Unity Kurulumu | WİNDOWS | MAC
+base/02 UNİTY KURULUM VE TANITIM/06 Unity HUB Kurulumu  Unity Kurulumu
 base/02 UNİTY KURULUM VE TANITIM/07 Unity Arayüz Tanıtımı ve Asset Storeden ilk assetimizi yüklüyoruz
 base/03 UNİTY - TEMEL CS DERSLERİ/08 DeğişkenlerTanımlamaTürleri
 base/03 UNİTY - TEMEL CS DERSLERİ/09 İf else kullanımıKarşılaştırma ve Mantıksal operatörler
@@ -27,11 +27,11 @@ base/05 UNİTY FONKSİYONLARI/26 Using KullanımıNamespace anlatım ve oluştur
 base/05 UNİTY FONKSİYONLARI/27 MonoBehaviour  Messages  Temel Fonksiyonları
 base/05 UNİTY FONKSİYONLARI/28 MonoBehaviourPublic MethodlarCoroutine
 base/05 UNİTY FONKSİYONLARI/29 MonoBehaviourPublic MethodlarInvoke
-base/06 UNİTYYE İLK ADIMLAR/30 Objelerin anlatımıScaleMoveRotate ve diğer başka detaylar
+base/06 UNİTYYE İLK ADIMLAR/30 Objelerin anlatımıScaleMoveRotate
 base/06 UNİTYYE İLK ADIMLAR/31 Inspector detayları ve Component Anlatımları 1
 base/06 UNİTYYE İLK ADIMLAR/32 Inspector detayları ve Component Anlatımları 2
 base/06 UNİTYYE İLK ADIMLAR/33 Inspector detayları ve Component Anlatımları 3
-base/06 UNİTYYE İLK ADIMLAR/34 Boş Obje Oluşturma ve Görevleriİlkscript dosyası olusturmaHiearchy Child
+base/06 UNİTYYE İLK ADIMLAR/34 Boş Obje Oluşturma
 base/06 UNİTYYE İLK ADIMLAR/35 Objeye değişken tanımlama ve çeşitli işlemler
 base/06 UNİTYYE İLK ADIMLAR/36 ArrayDiziler ve List Anlatım ve Tanımlama
 base/06 UNİTYYE İLK ADIMLAR/37 GetComponent Anlatımları ve işlemleri 1
