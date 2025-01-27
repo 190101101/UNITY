@@ -1,16 +1,16 @@
 base/01 GENEL BİLGİLENDİRME/01 Tanıtım | Seviye Bilgisi | Eğitim hakkında genel bilgilendirme
 base/01 GENEL BİLGİLENDİRME/02 Örnek | Oyun Kazanç Tabloları
-base/01 GENEL BİLGİLENDİRME/03 3D2D oyun nedir   aralarındaki  fark nedir 
+base/01 GENEL BİLGİLENDİRME/03 3D2D oyun nedir  aralarındaki fark nedir 
 base/01 GENEL BİLGİLENDİRME/04 Oyun Türleri Nelerdir 
 base/01 GENEL BİLGİLENDİRME/05 MERAK EDİLEN SORULAR VE CEVAPLARI
-base/02 UNİTY KURULUM VE TANITIM/06 Unity HUB Kurulumu  Unity Kurulumu
+base/02 UNİTY KURULUM VE TANITIM/06 Unity HUB Kurulumu Unity Kurulumu
 base/02 UNİTY KURULUM VE TANITIM/07 Unity Arayüz Tanıtımı ve Asset Storeden ilk assetimizi yüklüyoruz
 base/03 UNİTY - TEMEL CS DERSLERİ/08 DeğişkenlerTanımlamaTürleri
 base/03 UNİTY - TEMEL CS DERSLERİ/09 İf else kullanımıKarşılaştırma ve Mantıksal operatörler
 base/03 UNİTY - TEMEL CS DERSLERİ/10 For Döngüsü
-base/03 UNİTY - TEMEL CS DERSLERİ/11 Array anlatım  Tanımlama
+base/03 UNİTY - TEMEL CS DERSLERİ/11 Array anlatım Tanımlama
 base/03 UNİTY - TEMEL CS DERSLERİ/12 Foreach Döngüsü
-base/03 UNİTY - TEMEL CS DERSLERİ/13 While Döngüsü  Do While Döngüsü
+base/03 UNİTY - TEMEL CS DERSLERİ/13 While Döngüsü Do While Döngüsü
 base/03 UNİTY - TEMEL CS DERSLERİ/14 Switch Case Yapısı
 base/03 UNİTY - TEMEL CS DERSLERİ/15 List Kavramı
 base/03 UNİTY - TEMEL CS DERSLERİ/16 Tuple patterns
@@ -24,7 +24,7 @@ base/05 UNİTY FONKSİYONLARI/23 ClassFonksiyon Anlatım ve çeşitli işlemler 
 base/05 UNİTY FONKSİYONLARI/24 ClassFonksiyon Anlatım ve çeşitli işlemler 3
 base/05 UNİTY FONKSİYONLARI/25 ClassFonksiyon Anlatım ve çeşitli işlemler 4
 base/05 UNİTY FONKSİYONLARI/26 Using KullanımıNamespace anlatım ve oluşturma
-base/05 UNİTY FONKSİYONLARI/27 MonoBehaviour  Messages  Temel Fonksiyonları
+base/05 UNİTY FONKSİYONLARI/27 MonoBehaviour Messages Temel Fonksiyonları
 base/05 UNİTY FONKSİYONLARI/28 MonoBehaviourPublic MethodlarCoroutine
 base/05 UNİTY FONKSİYONLARI/29 MonoBehaviourPublic MethodlarInvoke
 base/06 UNİTYYE İLK ADIMLAR/30 Objelerin anlatımıScaleMoveRotate
@@ -39,7 +39,7 @@ base/06 UNİTYYE İLK ADIMLAR/38 GetComponent Anlatımları ve işlemleri 2
 base/06 UNİTYYE İLK ADIMLAR/39 Obje yakalama
 base/06 UNİTYYE İLK ADIMLAR/40 Obje yakalama
 base/06 UNİTYYE İLK ADIMLAR/41 GetComponent typeof
-base/06 UNİTYYE İLK ADIMLAR/42 CompareTag  AddComponent
+base/06 UNİTYYE İLK ADIMLAR/42 CompareTag AddComponent
 base/06 UNİTYYE İLK ADIMLAR/43 BroadcastMessageSendMessage
 base/06 UNİTYYE İLK ADIMLAR/44 Gameobject DestroyComponent Destroy
 base/07 UNİTY TRANSFORM QUATERNİON/45 Projeİmport PackageExport Package
@@ -50,18 +50,18 @@ base/07 UNİTY TRANSFORM QUATERNİON/49 Vector3Özellikler ve Public Methodlar
 base/07 UNİTY TRANSFORM QUATERNİON/50 Vector3Static Methodlar 1
 base/07 UNİTY TRANSFORM QUATERNİON/51 Vector3Static Methodlar 2
 base/07 UNİTY TRANSFORM QUATERNİON/52 Vector3Static Methodlar 3 ve Operatörler
-base/07 UNİTY TRANSFORM QUATERNİON/53 Transform  Özellikler ve  Methodlar 1
-base/07 UNİTY TRANSFORM QUATERNİON/54 Transform  Özellikler ve  Methodlar 2
-base/07 UNİTY TRANSFORM QUATERNİON/55 Transform  Özellikler ve  Methodlar 3
-base/07 UNİTY TRANSFORM QUATERNİON/56 Transform  Özellikler ve  Methodlar 4
+base/07 UNİTY TRANSFORM QUATERNİON/53 Transform Özellikler ve Methodlar 1
+base/07 UNİTY TRANSFORM QUATERNİON/54 Transform Özellikler ve Methodlar 2
+base/07 UNİTY TRANSFORM QUATERNİON/55 Transform Özellikler ve Methodlar 3
+base/07 UNİTY TRANSFORM QUATERNİON/56 Transform Özellikler ve Methodlar 4
 base/07 UNİTY TRANSFORM QUATERNİON/57 Quaternion Anlatım ve İşlevleri
 base/07 UNİTY TRANSFORM QUATERNİON/58 OBJECT INSTANTİATE OBJE OLUŞTURMA | ÇOK ÖNEMLİ | ÇOK SIK KULLANILIR
-base/08 UNİTY MATHF | HİDE FLAGS | ÇEŞİTLİ İPUÇLARI | DEĞİŞKEN METHODLARI/59 Mathf  Matematiksel İşlemler
+base/08 UNİTY MATHF | HİDE FLAGS | ÇEŞİTLİ İPUÇLARI | DEĞİŞKEN METHODLARI/59 Mathf Matematiksel İşlemler
 base/08 UNİTY MATHF | HİDE FLAGS | ÇEŞİTLİ İPUÇLARI | DEĞİŞKEN METHODLARI/60 Değişkenler için çeşitli methodlar Örnek ve kullanımı
 base/08 UNİTY MATHF | HİDE FLAGS | ÇEŞİTLİ İPUÇLARI | DEĞİŞKEN METHODLARI/61 Hide Flags Yöntemleri ve Çeşitli İpuçları 1
 base/08 UNİTY MATHF | HİDE FLAGS | ÇEŞİTLİ İPUÇLARI | DEĞİŞKEN METHODLARI/62 Hide Flags Yöntemleri ve Çeşitli İpuçları 2
-base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/63 3D |  Fizik İşlemleri 1
-base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/64 3D |  Fizik İşlemleri 2
+base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/63 3D | Fizik İşlemleri 1
+base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/64 3D | Fizik İşlemleri 2
 base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/65 3D | Fizik İşlemleri 3
 base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/66 3D | Fizik İşlemleri 4
 base/09 UNİTY PHYSİCS | FİZİK | 2D-3D/67 3D | Fizik İşlemleri 5
@@ -95,8 +95,8 @@ base/10 UNİTY GRAPHİC | LİGHTİNG - IŞIK | CAMERA | MATERİAL | TEXTURE | D�
 base/10 UNİTY GRAPHİC | LİGHTİNG - IŞIK | CAMERA | MATERİAL | TEXTURE | DİĞER İŞLEMLER/95 LİGHTİNG | IŞIK TÜRLERİ ANLATIM VE AYARLARI 4
 base/10 UNİTY GRAPHİC | LİGHTİNG - IŞIK | CAMERA | MATERİAL | TEXTURE | DİĞER İŞLEMLER/96 SKYBOX | ANLATIM VE İŞLEMLER
 base/10 UNİTY GRAPHİC | LİGHTİNG - IŞIK | CAMERA | MATERİAL | TEXTURE | DİĞER İŞLEMLER/97 HİGH DEFİNİTİON RENDER PİPELİNE | UNIVERSAL RENDER PİPELİNE
-base/11 UNİTY EFEKT/98 COMPONENT EFEKTLERİ  TRAİL RENDERER
-base/11 UNİTY EFEKT/99 COMPONENT EFEKTLERİ  LİNE RENDERER | HALO | PROJECTOR | LENS FLARE
+base/11 UNİTY EFEKT/98 COMPONENT EFEKTLERİ TRAİL RENDERER
+base/11 UNİTY EFEKT/99 COMPONENT EFEKTLERİ LİNE RENDERER | HALO | PROJECTOR | LENS FLARE
 base/11 UNİTY EFEKT/100 SCRİPT DOSYASI İLE EFEKT KONTROLÜ VE ÇEŞİTLİ İŞLEMLER
 base/11 UNİTY EFEKT/101 PARTİCLE SYSTEM | PARTİCLE EFFECT 1
 base/11 UNİTY EFEKT/102 PARTİCLE SYSTEM | PARTİCLE EFFECT 2
@@ -107,15 +107,15 @@ base/11 UNİTY EFEKT/106 VİSUAL GRAPHİC EFFECT 1
 base/11 UNİTY EFEKT/107 VİSUAL GRAPHİC EFFECT 2
 base/11 UNİTY EFEKT/108 VİSUAL GRAPHİC EFFECT 3
 base/11 UNİTY EFEKT/109 VİSUAL GRAPHİC EFFECT 4
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/110 CANVAS UI GENEL ANLATIM
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/111 CANVAS ELEMANLARI 1
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/112 CANVAS ELEMANLARI 2
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/113 CANVAS ELEMANLARI 3
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/114 CANVAS ELEMANLARI 4
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/115 CANVAS ELEMANLARI 5
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/116 CANVAS ELEMANLARI 6
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/117 CANVAS ELEMANLARI  TEXTMESHPRO ANLATIMI VE AYARLARI
-base/12 UNİTY UI - CANVAS |  LAYOUT İŞLEMLERİ/118 LAYOUT | ÖĞE DÜZENLEME | LAYOUT  ÇEŞİTLERİ VE AYARLARI
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/110 CANVAS UI GENEL ANLATIM
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/111 CANVAS ELEMANLARI 1
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/112 CANVAS ELEMANLARI 2
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/113 CANVAS ELEMANLARI 3
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/114 CANVAS ELEMANLARI 4
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/115 CANVAS ELEMANLARI 5
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/116 CANVAS ELEMANLARI 6
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/117 CANVAS ELEMANLARI TEXTMESHPRO ANLATIMI VE AYARLARI
+base/12 UNİTY UI - CANVAS | LAYOUT İŞLEMLERİ/118 LAYOUT | ÖĞE DÜZENLEME | LAYOUT ÇEŞİTLERİ VE AYARLARI
 base/13 UNİTY ANİMASYON/119 Animasyon işlemleri anlatım ve ayarlar 1
 base/13 UNİTY ANİMASYON/120 Animasyon işlemleri anlatım ve ayarlar 2
 base/13 UNİTY ANİMASYON/121 Animasyon işlemleri anlatım ve ayarlar 3
@@ -146,40 +146,40 @@ base/16 UNİTY INPUT | KONTROL YÖNTEMLERİ | KLAVYE | MOUSE | JOYSTİCK | TOUCH
 base/16 UNİTY INPUT | KONTROL YÖNTEMLERİ | KLAVYE | MOUSE | JOYSTİCK | TOUCH DOKUNMA/146 INPUT MANAGER | TOUCH İŞLEMLERİ 1
 base/16 UNİTY INPUT | KONTROL YÖNTEMLERİ | KLAVYE | MOUSE | JOYSTİCK | TOUCH DOKUNMA/147 INPUT MANAGER | TOUCH İŞLEMLERİ 2
 base/16 UNİTY INPUT | KONTROL YÖNTEMLERİ | KLAVYE | MOUSE | JOYSTİCK | TOUCH DOKUNMA/148 INPUT MANAGER | ACCELERATİON | TELEFON HAREKETLERİNİ YAKALAMA
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/149 3D | TERRAİN ANLATIM VE İŞLEMLER 1
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/150 3D | TERRAİN ANLATIM VE İŞLEMLER 2
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/151 3D | TERRAİN ANLATIM VE İŞLEMLER 3
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/152 3D | TERRAİN ANLATIM VE İŞLEMLER 4
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/153 3D | TERRAİN ANLATIM VE İŞLEMLER 5
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/154 3D | TERRAİN ANLATIM VE İŞLEMLER 6
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/155 3D | TERRAİN ANLATIM VE İŞLEMLER 7
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/156 POST PROCESSİNG 1
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/157 POST PROCESSİNG 2
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/158 3D | 2D | RAYCAST SİSTEMİ ANLATIM VE İŞLEMLERİ 1
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/159 3D | 2D | RAYCAST SİSTEMİ ANLATIM VE İŞLEMLERİ 2
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/160 3D | 2D | RAYCAST SİSTEMİ ANLATIM VE İŞLEMLERİ 3
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/161 PLAYERPREFS İŞLEMLERİ | LOAD amp; SAVE SİSTEMİNİN TÜM DETAYLARI VE ÖRNEKLERİ 1
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/162 PLAYERPREFS İŞLEMLERİ | LOAD amp; SAVE SİSTEMİNİN TÜM DETAYLARI VE ÖRNEKLERİ 2
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/163 DOSYA SİSTEMİ İLE SAVE amp; LOAD İŞLEMİ V1
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/164 DOSYA SİSTEMİ İLE SAVE amp; LOAD İŞLEMİ V2
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/165 2D | TİLE MAP | TİLE PALATTE | ANLATIM VE İŞLEMLER 1
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/166 2D | TİLE MAP | TİLE PALATTE | ANLATIM VE İŞLEMLER 2
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/167 GENEL İŞLEM | UNİTY EVENTSYSTEM | EVENT TRİGGER | DRAG | CLİCK VBİŞLEMLER
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/168 MİSCELLANEOUS İŞLEMLER | ÇEŞİTLİ İŞLEMLER | VİDEO PLAYER
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/169 SAHNE YÖNETİM İŞLEMLERİ | SCENEMANAGER KOMUTLARI VE ÖRNEKLER
-base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER |  İPUÇLARI/170 UNİTY STANDART ASSET PAKET İNCELEMESİ
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/149 3D | TERRAİN ANLATIM VE İŞLEMLER 1
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/150 3D | TERRAİN ANLATIM VE İŞLEMLER 2
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/151 3D | TERRAİN ANLATIM VE İŞLEMLER 3
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/152 3D | TERRAİN ANLATIM VE İŞLEMLER 4
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/153 3D | TERRAİN ANLATIM VE İŞLEMLER 5
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/154 3D | TERRAİN ANLATIM VE İŞLEMLER 6
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/155 3D | TERRAİN ANLATIM VE İŞLEMLER 7
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/156 POST PROCESSİNG 1
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/157 POST PROCESSİNG 2
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/158 3D | 2D | RAYCAST SİSTEMİ ANLATIM VE İŞLEMLERİ 1
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/159 3D | 2D | RAYCAST SİSTEMİ ANLATIM VE İŞLEMLERİ 2
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/160 3D | 2D | RAYCAST SİSTEMİ ANLATIM VE İŞLEMLERİ 3
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/161 PLAYERPREFS İŞLEMLERİ | LOAD amp; SAVE SİSTEMİNİN TÜM DETAYLARI VE ÖRNEKLERİ 1
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/162 PLAYERPREFS İŞLEMLERİ | LOAD amp; SAVE SİSTEMİNİN TÜM DETAYLARI VE ÖRNEKLERİ 2
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/163 DOSYA SİSTEMİ İLE SAVE amp; LOAD İŞLEMİ V1
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/164 DOSYA SİSTEMİ İLE SAVE amp; LOAD İŞLEMİ V2
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/165 2D | TİLE MAP | TİLE PALATTE | ANLATIM VE İŞLEMLER 1
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/166 2D | TİLE MAP | TİLE PALATTE | ANLATIM VE İŞLEMLER 2
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/167 GENEL İŞLEM | UNİTY EVENTSYSTEM | EVENT TRİGGER | DRAG | CLİCK VBİŞLEMLER
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/168 MİSCELLANEOUS İŞLEMLER | ÇEŞİTLİ İŞLEMLER | VİDEO PLAYER
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/169 SAHNE YÖNETİM İŞLEMLERİ | SCENEMANAGER KOMUTLARI VE ÖRNEKLER
+base/17 UNİTY DİĞER ÇEŞİTLİ İŞLEMLER | ÇEŞİTLİ YÖNTEMLER | İPUÇLARI/170 UNİTY STANDART ASSET PAKET İNCELEMESİ
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/171 FPS | FİRST PERSON SHOOTER ANLATIM VE ÖRNEK 1
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/172 FPS | FİRST PERSON SHOOTER ANLATIM VE ÖRNEK 2
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/173 SAHNE GEÇİŞ | LOADING EKRANI YAPIMI | SLİDER AYARLARI
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/174 SCROLLVİEW ÖRNEĞİ | OYUNLARDAKİ MARKETLERDE KULLANILAN SİSTEM
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/175 OBJECT POOLİNG | OBJE HAVUZU YÖNTEMİ
-base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/176 RAGDOLL SİSTEMİ NEDİR  RAGDOLL OLUŞTURULMASI
+base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/176 RAGDOLL SİSTEMİ NEDİR RAGDOLL OLUŞTURULMASI
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/177 OYUNLARDAKİ MİNİ MAP | ANLATIM VE YAPIMI
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/178 WAY POİNT | ANLATIM VE ÖRNEĞİ
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/179 OYUNLARDAKİ EL FENERİ SİSTEMİ
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/180 OYUNLARDAKİ TAB MENU SİSTEMİ
-base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/181 OYUNLARDAKİ BUİLD (İNŞAA) YAPMA  OBJE OLUŞTURMA SİSTEMİ 1
-base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/182 OYUNLARDAKİ BUİLD (İNŞAA) YAPMA  OBJE OLUŞTURMA SİSTEMİ 2
+base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/181 OYUNLARDAKİ BUİLD (İNŞAA) YAPMA OBJE OLUŞTURMA SİSTEMİ 1
+base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/182 OYUNLARDAKİ BUİLD (İNŞAA) YAPMA OBJE OLUŞTURMA SİSTEMİ 2
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/183 OYUNLARDAKİ DESTRUCT (OBJE YIKMAPARÇALAMA) İŞLEMİNİN YAPILMASI 1
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/184 OYUNLARDAKİ DESTRUCT (OBJE YIKMAPARÇALAMA) İŞLEMİNİN YAPILMASI 2
 base/18 UNİTY ÇEŞİTLİ ÖRNEKLER | İPUÇLARI/185 OYUNLARDAKİ KUMAŞ amp; BAYRAK EFEKTİ | Cloth Componenti 1
@@ -203,66 +203,66 @@ base/20 UNİTY ÇEŞİTLİ PENCERELERİN YÖNETİMLERİ/202 PREFERENCES PENCERES
 base/20 UNİTY ÇEŞİTLİ PENCERELERİN YÖNETİMLERİ/203 UNİTY SERVICES PENCERESİ
 base/21 UNİTY OPTİMİZASYON/204 Script Optimizasyon ipuçları
 base/21 UNİTY OPTİMİZASYON/205 Profiller Penceresi | Genel Optimizasyon konuları
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/206 2023 | OYUNLARA REKLAM EKLEME | ADMOB | PAKET KURULUMU | UYGULAMA OLUŞTURMA
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/207 2023 | OYUNLARA REKLAM EKLEME | ADMOB | GEÇİŞ REKLAMI
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/208 2023 | OYUNLARA REKLAM EKLEME | ADMOB | ÖDÜLLÜ REKLAM | ÖDÜLLÜ GECİŞ REKLAMI
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/209 2023 | OYUNLARA REKLAM EKLEME | ADMOB | BANNER REKLAMI
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/210 OYUN İÇİN SATIN ALMA EKLEME İŞLEMİ | GERÇEK UYGULAMA YÜKLEME VE TEST İŞLEMLERİ 1
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/211 OYUN İÇİN SATIN ALMA EKLEME İŞLEMİ | GERÇEK UYGULAMA YÜKLEME VE TEST İŞLEMLERİ 2
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/212 BUİLD ALMA | OYUNU PAKETLEME | GOOGLE PLAY | ANROİD
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/213 GOOGLE PLAYE UYGULAMA YÜKLEME ANLATIM | ÜRETİM | BETA | ALPHA KANALLARI
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/214 BUİLD ALMA | OYUNU PAKETLEME | PC | MAC | WEBGL
-base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ |  BUİLD İŞLEMLERİ/215 BUİLD ALMA | OYUNU PAKETLEME | İOS
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/206 2023 | OYUNLARA REKLAM EKLEME | ADMOB | PAKET KURULUMU | UYGULAMA OLUŞTURMA
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/207 2023 | OYUNLARA REKLAM EKLEME | ADMOB | GEÇİŞ REKLAMI
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/208 2023 | OYUNLARA REKLAM EKLEME | ADMOB | ÖDÜLLÜ REKLAM | ÖDÜLLÜ GECİŞ REKLAMI
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/209 2023 | OYUNLARA REKLAM EKLEME | ADMOB | BANNER REKLAMI
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/210 OYUN İÇİN SATIN ALMA EKLEME İŞLEMİ | GERÇEK UYGULAMA YÜKLEME VE TEST İŞLEMLERİ 1
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/211 OYUN İÇİN SATIN ALMA EKLEME İŞLEMİ | GERÇEK UYGULAMA YÜKLEME VE TEST İŞLEMLERİ 2
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/212 BUİLD ALMA | OYUNU PAKETLEME | GOOGLE PLAY | ANROİD
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/213 GOOGLE PLAYE UYGULAMA YÜKLEME ANLATIM | ÜRETİM | BETA | ALPHA KANALLARI
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/214 BUİLD ALMA | OYUNU PAKETLEME | PC | MAC | WEBGL
+base/22 UNİTY REKLAM | OYUN İÇİ SATIN ALMA SİSTEMİ | BUİLD İŞLEMLERİ/215 BUİLD ALMA | OYUNU PAKETLEME | İOS
 base/23 ÜCRETSİZ ASSETS BULABİLECEĞİN WEB SİTELERİ/216 GENEL ANLATIM VE AÇIKLAMA | GENEL ASSET | MODEL | SES | TEXTURE
-base/23 ÜCRETSİZ ASSETS BULABİLECEĞİN WEB SİTELERİ/217 MİXAMO | CHARACTER |  ANİMATİONS | ANLATIM VE UYGULAMA
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/218 Mahalleni Koru 1  Proje Oluşturma | Materyalleri ekleme
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/219 Mahalleni Koru 2  Sahnenin ve Mahallemizin oluşturulması
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/220 Mahalleni Koru 3  Karakterimizi ekleme | Crosshair | Ateş etme | Ses | Efekt
+base/23 ÜCRETSİZ ASSETS BULABİLECEĞİN WEB SİTELERİ/217 MİXAMO | CHARACTER | ANİMATİONS | ANLATIM VE UYGULAMA
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/218 Mahalleni Koru 1 Proje Oluşturma | Materyalleri ekleme
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/219 Mahalleni Koru 2 Sahnenin ve Mahallemizin oluşturulması
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/220 Mahalleni Koru 3 Karakterimizi ekleme | Crosshair | Ateş etme | Ses | Efekt
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/221 OYUNUN BU AŞAMAYA KADAR OLUŞMUŞ OLAN 1KAYNAK DOSYASI
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/222 Mahalleni Koru 4  Mermi izi | Kan efekti | Vurulan objeye fizik uygulama
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/223 Mahalleni Koru 5  Silah Paketi yükleme | Animasyon Yapma
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/224 Mahalleni Koru 6  Animasyon Yapımı Devam
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/225 Mahalleni Koru 7  Şarjör ve Mermi Sistemi yapımı
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/226 Mahalleni Koru 8  Şarjör ve Mermi Sistemi yapımı 2
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/227 Mahalleni Koru 9  Boş Mermi Kovanı Çıkarma | Yeni Kaynak ekleme
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/228 Mahalleni Koru 10  Yerden mermi alma sistemi | Yöntem 1 | Mermi Kutusu 1
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/229 Mahalleni Koru 10  Yerden mermi alma sistemi | Yöntem 1 | Mermi Kutusu 2
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/230 Mahalleni Koru 10  Yerden mermi alma sistemi | Yöntem 1 | Mermi Kutusu 3
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/231 Mahalleni Koru 10  Yerden mermi alma sistemi | Yöntem 1 | Mermi Kutusu 4
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/232 Mahalleni Koru 10  Yerden mermi alma sistemi | Yöntem 2 | Mermi Kutusu 5
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/233 Mahalleni Koru 11  PlayerPref sistemini kurma | Mermi kaydetme
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/234 Mahalleni Koru 12  (İsteğe Bağlı Part 1)Diğer silahların eklenmesi ve Animasyon
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/235 Mahalleni Koru 13  (İsteğe Bağlı Part 2)Diğer silahların eklenmesi ve Animasyon
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/236 Mahalleni Koru 14  (İsteğe Bağlı Part 3)Diğer silahların eklenmesi ve Animasyon
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/222 Mahalleni Koru 4 Mermi izi | Kan efekti | Vurulan objeye fizik uygulama
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/223 Mahalleni Koru 5 Silah Paketi yükleme | Animasyon Yapma
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/224 Mahalleni Koru 6 Animasyon Yapımı Devam
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/225 Mahalleni Koru 7 Şarjör ve Mermi Sistemi yapımı
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/226 Mahalleni Koru 8 Şarjör ve Mermi Sistemi yapımı 2
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/227 Mahalleni Koru 9 Boş Mermi Kovanı Çıkarma | Yeni Kaynak ekleme
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/228 Mahalleni Koru 10 Yerden mermi alma sistemi | Yöntem 1 | Mermi Kutusu 1
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/229 Mahalleni Koru 10 Yerden mermi alma sistemi | Yöntem 1 | Mermi Kutusu 2
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/230 Mahalleni Koru 10 Yerden mermi alma sistemi | Yöntem 1 | Mermi Kutusu 3
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/231 Mahalleni Koru 10 Yerden mermi alma sistemi | Yöntem 1 | Mermi Kutusu 4
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/232 Mahalleni Koru 10 Yerden mermi alma sistemi | Yöntem 2 | Mermi Kutusu 5
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/233 Mahalleni Koru 11 PlayerPref sistemini kurma | Mermi kaydetme
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/234 Mahalleni Koru 12 (İsteğe Bağlı Part 1)Diğer silahların eklenmesi ve Animasyon
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/235 Mahalleni Koru 13 (İsteğe Bağlı Part 2)Diğer silahların eklenmesi ve Animasyon
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/236 Mahalleni Koru 14 (İsteğe Bağlı Part 3)Diğer silahların eklenmesi ve Animasyon
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/237 OYUNUN BU AŞAMAYA KADAR OLUŞMUŞ OLAN 2KAYNAK DOSYASI
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/238 Mahalleni Koru 15  Sniper Silahı Scope (Yakınlaştırma) işlemini yapma
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/238 Mahalleni Koru 15 Sniper Silahı Scope (Yakınlaştırma) işlemini yapma
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/239 Mahalleni Koru 16AK47 | Magnum | Pompali | Scope (Yakınlaştırma) işlemini yapma
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/240 Mahalleni Koru 17 Kod Revize işlemleri | Camera Shake (Kamera Titremesi) yapımı
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/241 OYUNUN BU AŞAMAYA KADAR OLUŞMUŞ OLAN 3KAYNAK DOSYASI
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/242 Mahalleni Koru 18  Silah değiştirebilme sisteminin yapılması
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/243 Mahalleni Koru 19  Yapay Zekanın oluşturulması | Düşmanların İşlemleri 1
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/244 Mahalleni Koru 20  Yapay Zekanın oluşturulması | Düşmanların İşlemleri 2
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/245 Mahalleni Koru 21  Yapay Zekanın oluşturulması | Düşmanların İşlemleri 3
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/246 Mahalleni Koru 22  Yerden Sağlık alabilme işleminin yapılması
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/242 Mahalleni Koru 18 Silah değiştirebilme sisteminin yapılması
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/243 Mahalleni Koru 19 Yapay Zekanın oluşturulması | Düşmanların İşlemleri 1
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/244 Mahalleni Koru 20 Yapay Zekanın oluşturulması | Düşmanların İşlemleri 2
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/245 Mahalleni Koru 21 Yapay Zekanın oluşturulması | Düşmanların İşlemleri 3
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/246 Mahalleni Koru 22 Yerden Sağlık alabilme işleminin yapılması
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/247 OYUNUN BU AŞAMAYA KADAR OLUŞMUŞ OLAN 4KAYNAK DOSYASI
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/248 Mahalleni Koru 23  Toplam Düşman Sayısı işlemini yapma | SKYBOX EKLEME | DİĞER
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/249 Mahalleni Koru 24  Düşman karakterlerini ekleme
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/250 Mahalleni Koru 25  Düşman Animasyonlarının Yapılması | Koşma ve Ölme
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/248 Mahalleni Koru 23 Toplam Düşman Sayısı işlemini yapma | SKYBOX EKLEME | DİĞER
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/249 Mahalleni Koru 24 Düşman karakterlerini ekleme
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/250 Mahalleni Koru 25 Düşman Animasyonlarının Yapılması | Koşma ve Ölme
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/251 OYUNUN BU AŞAMAYA KADAR OLUŞMUŞ OLAN 5KAYNAK DOSYASI
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/252 Mahalleni Koru 26  Genel İyileştirmeler | Zombilere ve Oyun içine Ses ekleme
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/253 Mahalleni Koru 27  Bomba Atabilme özelliğinin Entegresi 1
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/254 Mahalleni Koru 28  Bomba Atabilme özelliğinin Entegresi 2
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/255 Mahalleni Koru 29  Item (Sağlık ve Bomba) Toplama ve Kullanma sistemi 1
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/256 Mahalleni Koru 30  Item (Sağlık ve Bomba) Toplama ve Kullanma sistemi 2
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/252 Mahalleni Koru 26 Genel İyileştirmeler | Zombilere ve Oyun içine Ses ekleme
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/253 Mahalleni Koru 27 Bomba Atabilme özelliğinin Entegresi 1
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/254 Mahalleni Koru 28 Bomba Atabilme özelliğinin Entegresi 2
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/255 Mahalleni Koru 29 Item (Sağlık ve Bomba) Toplama ve Kullanma sistemi 1
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/256 Mahalleni Koru 30 Item (Sağlık ve Bomba) Toplama ve Kullanma sistemi 2
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/257 OYUNUN BU AŞAMAYA KADAR OLUŞMUŞ OLAN 6KAYNAK DOSYASI
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/258 Mahalleni Koru 31  Çeşitli Ayarlar amp; Düzenlemeler
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/259 Mahalleni Koru 32  Çeşitli Ayarlar amp; Düzenlemeler
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/260 Mahalleni Koru 33  Mermi Çıkma ve gitme işleminin yapılması
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/261 Mahalleni Koru 34  Bazı işlemlerin geliştirilmesi
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/262 Mahalleni Koru 35  Oyun sonu panellerinin değiştirilmesi
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/263 Mahalleni Koru 36  Çeşitli iyileştirmelerin ve düzeltmelerin yapılması
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/264 Mahalleni Koru 37  Ana Menü Yapımı
-base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/265 Mahalleni Koru 38  Loading ve Oyundan çıkış panel yapımı
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/258 Mahalleni Koru 31 Çeşitli Ayarlar amp; Düzenlemeler
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/259 Mahalleni Koru 32 Çeşitli Ayarlar amp; Düzenlemeler
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/260 Mahalleni Koru 33 Mermi Çıkma ve gitme işleminin yapılması
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/261 Mahalleni Koru 34 Bazı işlemlerin geliştirilmesi
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/262 Mahalleni Koru 35 Oyun sonu panellerinin değiştirilmesi
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/263 Mahalleni Koru 36 Çeşitli iyileştirmelerin ve düzeltmelerin yapılması
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/264 Mahalleni Koru 37 Ana Menü Yapımı
+base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/265 Mahalleni Koru 38 Loading ve Oyundan çıkış panel yapımı
 base/24 ÖRNEK OYUN | 3D | PC | FPS | MAHALLENİ KORU/266 OYUNUN BU AŞAMAYA KADAR OLUŞMUŞ OLAN 7KAYNAK DOSYASI + BUİLD ALINMIŞ HALİ
 base/25 ÖRNEK OYUN | 2D | MOBİL | MULTİ PLAYER ONLİNE OYUN | KUTUMA DOKUNMA/267 Kutuma Dokunma 1
 base/25 ÖRNEK OYUN | 2D | MOBİL | MULTİ PLAYER ONLİNE OYUN | KUTUMA DOKUNMA/268 Kutuma Dokunma 2
@@ -356,7 +356,7 @@ base/27 ÖRNEK OYUN | 2D | MOBİL | HAFIZA OYUNU | OYUN ADI/355 OYUNUN BU AŞAMA
 base/28 ÖRNEK OYUN 3D PC/356 SPEEDY GONZALES 1
 base/28 ÖRNEK OYUN 3D PC/357 SPEEDY GONZALES 2
 base/28 ÖRNEK OYUN 3D PC/358 SPEEDY GONZALES 3 | OPSİYONEL İSTER İZLE İSTER İZLEME | ÇİTLER YERLEŞTİRİLİYOR
-base/28 ÖRNEK OYUN 3D PC/359 SPEEDY GONZALES 4 |  OPSİYONEL İSTER İZLE İSTER İZLEME | ÇEVRE DÜZENLENİYOR
+base/28 ÖRNEK OYUN 3D PC/359 SPEEDY GONZALES 4 | OPSİYONEL İSTER İZLE İSTER İZLEME | ÇEVRE DÜZENLENİYOR
 base/28 ÖRNEK OYUN 3D PC/360 SPEEDY GONZALES 5
 base/28 ÖRNEK OYUN 3D PC/361 SPEEDY GONZALES 6
 base/28 ÖRNEK OYUN 3D PC/362 SPEEDY GONZALES 7
@@ -417,5 +417,5 @@ base/28 ÖRNEK OYUN 3D PC/416 SPEEDY GONZALES 56
 base/28 ÖRNEK OYUN 3D PC/417 SPEEDY GONZALES 57
 base/28 ÖRNEK OYUN 3D PC/418 SPEEDY GONZALES 58
 base/28 ÖRNEK OYUN 3D PC/419 SPEEDY GONZALES 59
-base/28 ÖRNEK OYUN 3D PC/420 6 FULL KAYNAK DOSYASI  DİĞER DOSYALAR
+base/28 ÖRNEK OYUN 3D PC/420 6 FULL KAYNAK DOSYASI DİĞER DOSYALAR
 base/29 BONUS/421 BONUS
