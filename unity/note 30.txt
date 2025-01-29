@@ -1,0 +1,10 @@
+#1 sehnede object yaratmaq ucun mouse right click gameobject 3d object meselen.
+#2 sehnedeki objecti bilmeden deymemek ucun hand iconuna click
+#3 inspector da transform ve diger settingsler var.. objenin ustune click et bax.
+#4 objenin oz oxu etrafinda donmek ve.s solda yuxarida main menuya diqqet.
+#5 x,y,z. x sag sol, z qabaga dala, y yuxari ashagi.
+#6 yuxarida menuda goz isharesi var. gizli objeni gostermek ve gizlemek olar.
+#7 hot keylerde mevcutdur meselen: h hidden demekdi.
+#8 soldaki main menudan shift obje between click ederek bir nece obje focus yada ctrl
+#9 ctrl d,c,v kimi hot keylerde movcutdur.
+#10 objenin ismini tez deyishmek ucun f2 ye bas ve yaz.
