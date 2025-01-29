@@ -3,3 +3,4 @@
 #3 console settings de stack trace logging menusundakiler [script only] de olsun..
 #4 console open editor log ile butun log a baxmaq.
 #5 project add tab ederek yeni scene ve sehife elave etmek.
+#6 console !,?,! iconlarda browserdeki kimi console log message, error, warning show.
