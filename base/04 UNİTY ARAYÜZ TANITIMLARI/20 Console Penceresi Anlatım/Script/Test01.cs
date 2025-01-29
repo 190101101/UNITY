@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Console01 : MonoBehaviour
+public class Test01 : MonoBehaviour
 {
     string a;
     int b;
