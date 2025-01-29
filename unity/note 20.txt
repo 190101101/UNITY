@@ -1,0 +1,5 @@
+#1 console clear on play active olsun game run olundugunda auto olarak clear olur 
+#2 console error pause active olsun cunki errorlar game stop oldugda dayansin.
+#3 console settings de stack trace logging menusundakiler [script only] de olsun..
+#4 console open editor log ile butun log a baxmaq.
+#5 project add tab ederek yeni scene ve sehife elave etmek.
