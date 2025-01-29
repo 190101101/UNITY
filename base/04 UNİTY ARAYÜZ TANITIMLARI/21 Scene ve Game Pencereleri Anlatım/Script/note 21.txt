@@ -1,0 +1,8 @@
+#1 game ve scene window larinda settingsler var. scene de adeten shaded olmalidi.
+#2 scene wireframe objectleri xett olaraq gosterir.
+#3 gizmoz sehnede gormek isteyib istemediyimiz sheylerdir.
+#4 search sehnede object i tapmaq.
+#5 sehnede sag yuxari kuncde kompasdan istifade etmek unutma.
+#6 game play click veziyyeti scene edib daha rahat baxa bilersen
+#7 game [ekran] free aspect olarak saxla amma dev zamani. sonra duzeltmek lazimdir.
+#8 stats da datalari gormek olar fps ve.s
