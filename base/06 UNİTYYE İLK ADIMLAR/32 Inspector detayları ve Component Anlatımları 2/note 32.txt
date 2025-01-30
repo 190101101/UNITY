@@ -1,0 +1,7 @@
+#0 inspector
+#1 static/dinamik var.. static terpenmeyecek olan objeler ucundu.
+#2 tag lara digget. enemy tag verdim capsule sonra onu secmek.
+#3 layer 2d oyunlar ucundur adeten.. 1 ci qat 2 ci qat...
+#4 inspector da menulari siralamaq olur mouse surutlemek. yada move up/down
+#5 transformda reset etsen obje oz halina qayidir
+#6 transformda reset position etmek ise positionu oz halina qaytarir.
