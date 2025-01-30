@@ -1,0 +1,6 @@
+#1 mesh nedir? her objenin meshi ferqlidi. mesh skelet dir demek olar.
+#2 assets folder icinde material folder create. create/material.
+#3 yaranan materiali sehnedeki objenin uzerine qoysan olacaq.
+#4 inspectorda mesh rendererde lighting var.. objenin shadow.
+#5 receive shadow ise bashqa objenin bir objeye shadow salmasi
+#6 additional settings -> dynamic occulision. obje objenin arxasindadirsa ekran karti yorulmasin deye gostermez.
