@@ -1,0 +1,4 @@
+#1 inspector add component edib sonra script name yazib yaratmaq olar.
+#2 create script c# ederek script yaratmaq olar. sonra componente elave.
+#3 consolda warning error ve message ye fikir ver.
+#4 create empty object edib sonra bir cox object yaradib onun childi etmek olar.. mes: enemies.
