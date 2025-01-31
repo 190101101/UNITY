@@ -1,0 +1,1 @@
+#1 bir objeye bir nece dene component elave etmek olar. mes: 1 capsula 2 dene ve ya daha cox CapsuleCollider.
