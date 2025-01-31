@@ -1,0 +1,4 @@
+#1 create empty object. [parent] rigid body component verdik
+#2 parent objectin altina child empty object yaratdiq ve audio source compt verdik
+#3 grand child objecti child objectinin altinda yaratdiq ve capsule collider component verdik.
+#4 butun objectlere eyni scripti verdik test01.cs
