@@ -1,0 +1,90 @@
+unity.
+salam abi bir sorum var.
+unityde hoca boyle kod yazdi.
+transform.Find("child").GetComponent<AudioSource>().mute = true;
+ben bu kodu anliyorum.. amma bir sheyi anlamadim transform kismini.. yani test01.cs icinde hicbir variable etmeden transform find etmek ne demek? yani bu transform nereden cikti ?
+
+Aleyküm selam abi!  
+
+Sorun çok güzel, ve aslında Unity'nin bileşen (Component) sistemini anlaman açısından önemli bir nokta.  
+
+Senin verdiğin kod şu şekilde:  
+```csharp
+transform.Find("child").GetComponent<AudioSource>().mute = true;
+```
+
+Bu kodu anlamak için şu soruya cevap vermeliyiz: **Bu `transform` nereden geliyor?**  
+
+### 1. `transform` Nereden Geliyor?
+Unity’de `MonoBehaviour` sınıfından türetilen her script, otomatik olarak **GameObject’in bazı temel bileşenlerine erişim sağlar**.  
+
+Bu bileşenlerden biri de **Transform** bileşenidir. Eğer bir script şu şekilde bir sınıftan türetilmişse:  
+```csharp
+public class Test01 : MonoBehaviour
+```
+Unity bu scripti bir GameObject’e eklediğinde, o GameObject’in **Transform** bileşenine **doğrudan** erişebilmeni sağlar.  
+
+Yani:  
+```csharp
+transform
+```
+Aslında şu anlama gelir:  
+```csharp
+this.gameObject.transform
+```
+veya daha açık haliyle:  
+```csharp
+GetComponent<Transform>()
+```
+Unity, `MonoBehaviour` içinde **`transform` gibi bazı temel bileşenlere direkt erişimi kolaylaştırır**, bu yüzden `transform` yazınca, otomatik olarak **o scriptin bağlı olduğu GameObject’in Transform bileşenine erişmiş oluyorsun.**  
+
+---
+
+### 2. Kodun Anlamı:
+Şimdi kodu parçalayalım:  
+```csharp
+transform.Find("child")
+```
+- **`transform`** → Scriptin bağlı olduğu GameObject’in `Transform` bileşeni.  
+- **`.Find("child")`** → Bu GameObject’in **"child" isimli bir alt nesnesini (child GameObject) bul** ve onun `Transform` bileşenini döndür.  
+
+```csharp
+.GetComponent<AudioSource>()
+```
+- **Bulduğumuz "child" GameObject’in `AudioSource` bileşenini al.**  
+
+```csharp
+.mute = true;
+```
+- **Ses kaynağını sustur.**  
+
+---
+
+### 3. Alternatif Kullanımlar:
+Eğer `transform` yerine `this.transform` yazarsan da aynı anlama gelir:  
+```csharp
+this.transform.Find("child").GetComponent<AudioSource>().mute = true;
+```
+Ama genellikle `this` kullanmadan yazılır çünkü gereksizdir.
+
+---
+
+### 4. Eğer `transform` Kullanmak İstemezsek?
+Eğer doğrudan `transform` kullanmak istemiyorsan, **GameObject üzerinden de erişebilirsin**:
+```csharp
+gameObject.transform.Find("child").GetComponent<AudioSource>().mute = true;
+```
+Hatta tamamen `GetComponent` kullanarak bile aynı sonuca ulaşabilirsin:
+```csharp
+GetComponent<Transform>().Find("child").GetComponent<AudioSource>().mute = true;
+```
+Ama en yaygın ve kısa olanı `transform.Find(...)` kullanmaktır.
+
+---
+
+### Sonuç:
+**Özetle**, `transform` direkt olarak **scriptin bağlı olduğu GameObject’in `Transform` bileşenini ifade eder**. Çünkü `MonoBehaviour` içinde Unity bunu bize otomatik sağlar.  
+
+Bu yüzden herhangi bir değişken tanımlamadan `transform` kullanabiliyoruz. Eğer bir GameObject’e bağlı olmasaydık, `transform` değişkenini kullanamazdık.  
+
+Soruların varsa devam edebilirim abi. 😊

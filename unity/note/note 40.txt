@@ -1,0 +1,6 @@
+#1 transform Nereden Geliyor?
+Unity’de MonoBehaviour sınıfından türetilen her script, 
+otomatik olarak GameObject’in bazı temel bileşenlerine erişim sağlar.
+Bu bileşenlerden biri de Transform bileşenidir. 
+Eğer bir script şu şekilde bir sınıftan türetilmişse:
+public class Test01 : MonoBehaviour
