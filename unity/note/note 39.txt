@@ -1,0 +1,3 @@
+#1 test01 scriptinden test02 deki datalari manupulasiya etmek olar.
+#2 tag a gore find etmek daha el verishlidir.
+#3 find ederken Find(parent/child) etmek olar
