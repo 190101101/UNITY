@@ -11,7 +11,4 @@ CapsuleCollider capsulum = GetComponent<CapsuleCollider>();
 CapsuleCollider capsulum = gameObject.GetComponent("CapsuleCollider") as CapsuleCollider;
 
 
-// burada bir obje activse passiv edirik.. 
-// amma oyun bashlamadan passiv ise active olmaz!
-gameObject.SetActive(false);
-gameObject.SetActive(true);
+
