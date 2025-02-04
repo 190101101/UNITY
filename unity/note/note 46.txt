@@ -1,0 +1,6 @@
+#1 yuxardaki main menudan file/new scene
+#2 assets folderinde prefab adinda folder acirsan ve sehnedeki objeni atirsan onun icine.
+#3 prefab a qoydugum objeni diger sehnelerde istifade edende diqqet et. cunki objenin datasini deyishende hamisinda deyishecek.
+#4 prefab olan objenin yalniz 1 scene de deyishiklik etmek istesen gerek sceneni save edesen prefabi deyil.
+#5 prefab dan objeni sehneye alandan sonra r click unpack prefab etsek o objenin prefab ile baglantisini kese bilerik.
+#6 prefab objeni sehneye atandan sonra ismini deyishsek bele select prefab assets ederek hansi prefabdan yarandigini bilmek olar.
