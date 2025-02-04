@@ -1,3 +1,4 @@
+cd ~/Desktop/C#
 git add .
-git commit -m " "
+git commit -m "46"
 git push
