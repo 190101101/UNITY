@@ -1,0 +1,1 @@
+#1 Time.deltaTime funcu her 1 saniyede ish gorur
