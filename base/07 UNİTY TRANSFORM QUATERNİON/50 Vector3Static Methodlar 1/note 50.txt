@@ -1,0 +1,1 @@
+#1 angle methodu iki vector arasindaki aciyi derece cinsinden verir
