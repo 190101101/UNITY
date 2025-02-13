@@ -1,0 +1,4 @@
+#1 objectin box colliderindeki size gormek ucun mesh renderer i false et.
+#2 objectin oz hecminden elave box colliderde olan size na fikir vermek lazimdi.
+#3 colliderin cercivesini edit etmek ucun edit collidere basmaq lazimdi
+#4 objelerin bir birleri arasinda carpishma anindaki veziyyeti code terefine gondermek ucun box colliderde is trigger aciq olmalidir.

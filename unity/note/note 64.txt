@@ -1,0 +1,2 @@
+#1 material icinde create basib physic material yaradib onu objeye elave etmek olar.
+#2 fizik olaylarini saglamaq ucun rigidbody elave etmek lazimdi objeye
