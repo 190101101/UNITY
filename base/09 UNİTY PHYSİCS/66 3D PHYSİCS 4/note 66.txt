@@ -1,0 +1,2 @@
+#1 objeleri is trigger le calishiriqsa rigidbody ye ehtiyyac yoxdu.
+#2 is kinematic true etmek unutma. cunki is trigger true eden kimi objeler dushur yere.
