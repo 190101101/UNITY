@@ -1,2 +1,0 @@
-#1 spring join componenti iki sphere arasinda bir bag yaradirmish kimidir bir birlerini cekirler. unutmaki cekilen sphere ye rigidbody vermek lazimdi.
-#2 constant force componenti bir objeye sabit quvvet uygulamaq ucundur.
