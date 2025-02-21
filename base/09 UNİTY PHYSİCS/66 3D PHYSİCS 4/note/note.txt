@@ -1,0 +1,7 @@
+#1 unutmaki rigidbody de mass cox vacibdir mass 1 olan 100 olani iteleye bilmez cunki o biri daha agirdir.
+#2 unity de fizik yakalamalari 2 curdur. rigidbody ve Collider in trigger inden
+#3 unutmaki rigidbody olmasa bele onCollisionEnter kimi func lar calishacaq amma itelemek gucu zadi bunlar ucun rigidbody on olmalidir.
+#4 unutma is kinematik fizik motorunu devre dishi birakmak icindir
+#5 toqqushan objelerin her hansi birinde rigidbody olmalidir ve is kinematic on olarsa birinde off olmalidir
+#6 collider ile fizik ishlemi edirsense mutleq objelerin birinde is trigger aciq olmalidir.
+#7 fikir verdimki is trigger ile tutmagima baxmayaraq mutleq rigidbody olmalidir yoxsa calishmir.
