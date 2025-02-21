@@ -1,0 +1,6 @@
+#1 objenin box colliderinde heqiqi size ni bildirmek olar adeten auto bash verir.. mesh rendereri false edib heqiqi box collider xetlerini gormek olar.
+#2 objenin transformda ki size ne olursa olsun box colliderde oz normal boyutu x,y,z 1 olmalidirki transformdakina gore simmetrik otursun
+#3 ortalamaq ucun se centerde x,y,z 0 olmalidir
+#4 kod terefinde carpishmalari aktara bilmem icin is trigger lazimdir.
+#5 butun colliderlerde is trigger var.
+#6 her objede colliderin ferqli tereflerini gormek olar. sphere collidered yalniz size var. capsule collider de direction x,y,z yon deyishdirmek ucundur
