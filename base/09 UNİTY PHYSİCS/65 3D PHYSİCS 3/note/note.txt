@@ -1,0 +1,9 @@
+#1 rigidbody fiziksel davranishini saglayan ana birleshendir.
+#2 objeye rigidbody eklendiyinde yer cekimine tepki verecekdir.
+#3 objeye rigidbody verilirse transformu cox qurdalama.
+#4 rigidbody mass agirliqini bildirir. drag hava direncini idare edir ne qeder cox oldusa o qeder gec dushecek yere obje.
+#5 use gravity yer cekiminden etkilenmesin deye false etmek olar
+#6 is kinematic true olduqda fizik motoru terefinden etkinleshdirilmez.
+#7 interpolate titreshime aid bir sheydir.
+#8 collision detection da sondan 1 ve 3 cu rekomend edilmir. performans qeybidir.
+#9 constraints ise freeze position ve rotation var melumdurki dondurmaq ucundur x,y,z lere gore.
