@@ -1,0 +1,11 @@
+#1 assets icinde physic folder acib icinde physic material yaradiriq.
+#2 sonra onu objeye verdik adi materiali verdiyimiz kimi
+#3 unutmaki physic ishlerinde rigidbody verilmelidir.
+#4 physic materialda dynamic friction surtunme halindaki tepkisidir 0-1 arasi olur adeten.
+#5 static ise obje yere dushduyunde carpishma olmadan static olarak durdugunda nece duracagini belirtmek ucundu
+#6 bounciness sıçrayış demekdir.. 0-1 arasi olur 1 olanda normal physic tepkisi verir 
+#7 friction combine selectoru average/min/max/multp.
+#8 bounce combine selectorunda max edende obje durmadan jump edir.
+#9 fikir ver. plane objesinde mesh collider var.
+#10 umumiyyetle collider ler etkileshimi saglayan sistemlerdir eger mesh collideri false etsek objeler uzerinde qalmaz.
+#11 mesh colliderde convex var box collider effektine benzer bir sheydir.
