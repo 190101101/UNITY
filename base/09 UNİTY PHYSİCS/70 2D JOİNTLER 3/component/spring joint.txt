@@ -1,0 +1,6 @@
+spring join elastik ip kimi bir effekt verir
+
+@selectors
+#1 spring - ipin gucunu ve suretli davranishini belirleyir
+#2 damper - muqavimet artirir elastikliyi azaldir
+#3 mix max distance - mesafe
