@@ -1,4 +1,4 @@
 cd ~/Desktop/Unity/Laboratory
 git add .
-git commit -m "70 2D JOİNTLER 3"
+git commit -m "68 2D JOİNTLER 1"
 git push

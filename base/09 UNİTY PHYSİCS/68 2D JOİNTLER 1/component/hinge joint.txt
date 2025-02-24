@@ -26,3 +26,12 @@ break torque qopma torqu
 enable collision etkileshim
 mass scale kutle
 connected mass scale baglanti kutlesi
+
+**Hinge Joint**
+
+1. **Anchor** – Menteşe noktasını belirler.  
+2. **Axis** – Dönme eksenini belirler (genellikle tek eksende döner).  
+3. **Use Motor** – Motor açılırsa, belirli bir hız ve tork ile dönmeyi sağlar.  
+4. **Use Limits** – Minimum ve maksimum açı sınırlarını belirler.  
+5. **Spring** – Yay kuvveti ekleyerek eklem hareketini kontrol eder.  
+

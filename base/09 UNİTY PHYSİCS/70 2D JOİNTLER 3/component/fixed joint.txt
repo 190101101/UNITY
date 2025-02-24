@@ -1,8 +1,0 @@
-@fixed joint
-#iki obje 1 ne jointi veririk o birine rigidbody ve joint olana ise rigidbody objeni baglayiriq;
-
-break force
-break torque
-enable collision = carpishmalari yakalamak icin;
-enable prepocessin = arka planda fizik hesablamasi;
-mass scale = kutle gucu;

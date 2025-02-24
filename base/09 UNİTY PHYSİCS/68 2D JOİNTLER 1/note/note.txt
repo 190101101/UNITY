@@ -1,1 +1,0 @@
-#1 qapi ve divar effekti ederken divarin rigidbody z,x,y pos ve rotate leri true etmek unutmaki objeler termenmesin.

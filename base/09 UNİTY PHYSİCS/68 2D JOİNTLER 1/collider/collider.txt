@@ -5,3 +5,7 @@
 	#2 stope limit qalxa bileceyi derece
 	#3 step offset ise pillekan kimi bir sheyi qalma yuksekliyi
 	#4 skin width scenede game zamani objelerin bir birlerine ne qeder gire bileceyini belirler
+
+@box collider
+	#1 fizik ishleri ucundur ve objelerin toxunmalarini izleyer.
+	meselen bir obje diger objenin uzerinde qalmasi kimi	
