@@ -1,0 +1,9 @@
+constant force
+bir objeye sabit fizik uygulamaq ucundur
+
+@selectors
+bu selectorlarin hamisinda x,y,z cordinatlari var
+#1 force
+#2 relative force
+#3 torque
+#4 relative torque

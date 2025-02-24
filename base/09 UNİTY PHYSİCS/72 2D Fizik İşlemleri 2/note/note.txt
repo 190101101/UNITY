@@ -1,0 +1,5 @@
+#1 body type dynamic olan obje body type ne olursa olsun butun objeler ile etkileshime girir.[bir obje kinematic se dynamic dishinda hicbir objeni yakalayamiyorum]
+#2 kinematic oldugu halda use full kinematic enabled etdim ve diger kinematic use full kinematic disable olan objeye toxundu yenede tuta bildim.
+#3 kinematic esasen fizik qaydalarindan kenardir ve izin vermir. fizik motoru onun ucun calishmir.
+#4 use full kinematic olan obje static objeye toxunanda calishir.
+#5 box colliderin is triggeri ni enabled etmek lazimdi kod terefde tutmaq ucun.
