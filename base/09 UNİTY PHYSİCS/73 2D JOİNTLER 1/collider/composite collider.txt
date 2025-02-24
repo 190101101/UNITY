@@ -1,0 +1,6 @@
+composite Collider
+
+#1 ayri ayri collider leri birleshdire bilir
+#2 composite ile birleshen butun colliderlerin inspectorunda bu yazir. used by composite
+#3 gennation type selectoru na fikir vermek lazimdi hesablayicidi colliderler arasi
+#4 vertex distance -  bucaqlarin mesafesi

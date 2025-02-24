@@ -1,0 +1,10 @@
+Box Collider
+
+1. **Center** – Collider’ın merkez noktasını belirler.  
+2. **Size** – X, Y, Z eksenlerinde boyutunu ayarlar.  
+3. **Is Trigger** – Açık olduğunda fizik çarpışmalarını engeller, sadece tetikleyici olarak çalışır.  
+4. **Material (Physic Material)** – Sürtünme ve sıçrama gibi fiziksel özellikleri belirler.  
+
+
+1# edge radius - fizik cercivesini belirleyir
+#2 auto tilling - mevcut sprite deki deyishim hereketlerini yakalamasini saglayir. boyut ve.s
