@@ -1,0 +1,16 @@
+spring join elastik ip kimi bir effekt verir
+
+@selectors
+#1 spring - ipin gucunu ve suretli davranishini belirleyir
+#2 damper - muqavimet artirir elastikliyi azaldir
+#3 mix max distance - mesafe
+
+**Spring Joint**
+
+1. **Anchor** – Eklem noktasını belirler.  
+2. **Connected Body** – Bağlanacak diğer Rigidbody’yi seçer.  
+3. **Spring** – Yay kuvvetini belirler (ne kadar güçlü çekileceğini ayarlar).  
+4. **Damper** – Salınımı azaltan sürtünme kuvvetidir.  
+5. **Min & Max Distance** – Nesnelerin birbirine ne kadar yaklaşabileceğini veya uzaklaşabileceğini belirler.  
+6. **Tolerance** – Yay hareketinin doğruluğunu ayarlar.  
+

@@ -1,0 +1,2 @@
+ctrl + a = add component
+ctrl + alt kamera ile tez hereket etmek
