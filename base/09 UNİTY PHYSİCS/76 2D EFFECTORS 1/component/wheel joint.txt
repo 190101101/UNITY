@@ -1,0 +1,14 @@
+**Wheel Joint 2D**'nin temel özellikleri şunlar:
+
+1. **Connected Rigidbody** – Bağlanacak **Rigidbody2D**'yi belirler.  
+2. **Anchor** – Tekerleğin döneceği ekseni belirler.  
+3. **Auto Configure Connected Anchor** – Bağlantı noktasını otomatik ayarlar.  
+4. **Use Motor** – Motoru aktif eder, tekerleği döndürür.  
+   - **Motor Speed** – Tekerleğin dönüş hızını belirler.  
+   - **Max Motor Torque** – Motorun uygulayabileceği maksimum tork.  
+5. **Suspension** – Süspansiyon özelliklerini ayarlar.  
+   - **Frequency** – Süspansiyonun sertliği (yay kuvveti).  
+   - **Damping Ratio** – Titreşimi azaltan sürtünme kuvveti.  
+
+🔹 **Wheel Joint 2D**, araba tekerlekleri gibi **dönüş ve süspansiyon hareketleri** sağlar.  
+
