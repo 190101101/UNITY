@@ -1,0 +1,65 @@
+@hinge joint
+
+door adinda cube miz var rigidbody componenti ile onu veriririk diger cube ye wall hinge jointi e.
+kompas da z solda gostermelidir yoxsa hinge joint in taraslamasi olmayacaq.
+
+@spring 
+10 vermek obje nin hereket etdirmek ucun quvvesidir. meselen qapinin yaylanmasi eger 150 versen daha direncli olacaq.
+damper ne qeder yuksek olsa obje o qeder yavash olacaq.
+target position ise derece cinsinden olcudur.. meselen qapi 30 derece aciqdir
+
+@use motor 
+enabled edenden sonra target velocity ve forceye diqqet yetir.
+
+@limits
+min max ne qeder acilib baglanacaq
+bounciness objenin min max ulashdiginda sekme hizidir
+
+velocity objeni ulashmaga calishdigi hizdir.
+yeni
+bounciness 1
+bounce min velocity 0.2
+contact distance - temas halinda titreshimi onlemek
+
+break force qopma gucu
+break torque qopma torqu
+enable collision etkileshim
+mass scale kutle
+connected mass scale baglanti kutlesi
+
+**Hinge Joint**
+
+1. **Anchor** – Menteşe noktasını belirler.  
+2. **Axis** – Dönme eksenini belirler (genellikle tek eksende döner).  
+3. **Use Motor** – Motor açılırsa, belirli bir hız ve tork ile dönmeyi sağlar.  
+4. **Use Limits** – Minimum ve maksimum açı sınırlarını belirler.  
+5. **Spring** – Yay kuvveti ekleyerek eklem hareketini kontrol eder.  
+
+
+
+1. **Connected Rigidbody** – Bağlanacak **Rigidbody2D**’yi belirler.  
+2. **Use Motor** – Açılırsa eklem bir motor gibi hareket eder.  
+   - **Motor Speed** – Motorun dönüş hızını ayarlar.  
+   - **Max Motor Torque** – Motorun maksimum torkunu belirler.  
+3. **Use Limits** – Minimum ve maksimum dönüş açısını sınırlandırır.  
+   - **Lower Angle** – En düşük dönebileceği açı.  
+   - **Upper Angle** – En yüksek dönebileceği açı.  
+4. **Anchor** – Dönme merkezini belirler.  
+5. **Auto Configure Connected Anchor** – Bağlantı noktasını otomatik ayarlar.  
+
+🔹 **Hinge Joint 2D**, **kapı menteşesi gibi bir eklem** oluşturur, sadece belirli bir eksende dönmesini sağlar.  
+
+
+**Hinge Joint 2D**'nin temel özellikleri:  
+
+1. **Connected Rigidbody** – Bağlanacak **Rigidbody2D**'yi belirler.  
+2. **Anchor** – Dönme merkezini belirler.  
+3. **Auto Configure Connected Anchor** – Bağlantı noktasını otomatik ayarlar.  
+4. **Use Motor** – Motor ekler, dönme hareketi sağlar.  
+   - **Motor Speed** – Motorun dönüş hızını belirler.  
+   - **Max Motor Torque** – Motorun uygulayacağı maksimum tork.  
+5. **Use Limits** – Dönme açısını sınırlar.  
+   - **Lower Angle** – Minimum dönüş açısı.  
+   - **Upper Angle** – Maksimum dönüş açısı.  
+
+**Hinge Joint 2D**, iki nesne arasında menteşe gibi bir bağlantı sağlar ve sadece belirli bir eksende dönmelerine izin verir.
