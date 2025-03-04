@@ -1,0 +1,4 @@
+polygon Collider
+
+
+#1 edge colliderin benzeridi polygon ici dolu olaraq gelir.
