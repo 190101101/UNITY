@@ -1,0 +1,13 @@
+**Platform Effector 2D**'nin temel özellikleri:  
+
+1. **Use One Way** – Nesnelerin sadece bir yönde platforma geçiş yapabilmesini sağlar.  
+2. **Surface Arc** – Yüzeyin açı genişliğini belirler (yani platformun ne kadar eğimli olduğunu).  
+3. **Rotation Offset** – Platformun dönme açısını ayarlar.  
+4. **Use Side Fling** – Platformun her iki tarafında nesnelerin dışarı fırlatılmasını sağlar.  
+5. **Friction** – Nesnelerin platforma sürtünmesini sağlar.  
+6. **Restitution** – Platformun nesneleri ne kadar sıçratacağını belirler.  
+
+**Platform Effector 2D**, nesnelerin **platforma geçişlerini** ve **platform üzerindeki etkileşimlerini** kontrol eder. Örneğin, oyuncuların altından geçebileceği platformlar oluşturmak için kullanılır.
+
+
+#1 platformu effectoru kullananda box colliderde is trigger istifade etme

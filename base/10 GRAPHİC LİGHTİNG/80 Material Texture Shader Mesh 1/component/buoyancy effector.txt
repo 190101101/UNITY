@@ -1,0 +1,17 @@
+**Buoyancy Effector 2D**'nin temel özellikleri:  
+
+1. **Surface Level** – Sıvı yüzeyinin yüksekliğini belirler.  
+2. **Density** – Sıvının yoğunluğunu ayarlar, nesnelerin batma veya yüzme oranını etkiler.  
+3. **Linear Drag** – Sıvıdaki doğrusal sürtünme kuvveti.  
+4. **Angular Drag** – Sıvıdaki dönme sürtünmesi.  
+5. **Flow Angle** – Sıvının akış yönünü belirler.  
+6. **Flow Magnitude** – Akışın kuvvetini ayarlar.  
+7. **Flow Variation** – Akış kuvvetinin rastgele değişim oranı.  
+
+**Buoyancy Effector 2D**, nesnelere su içindeymiş gibi kaldırma kuvveti ve sürtünme uygular.
+
+
+@bir nece problem ile qarshilashdim.
+
+#1 objecti cox yuksekten atmaki su tuta bilsin.
+#2 order in layer square water icinde gorunsun deye..
