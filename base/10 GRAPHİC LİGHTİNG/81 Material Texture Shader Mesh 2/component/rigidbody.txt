@@ -1,0 +1,22 @@
+@ Rigidbody fizik ishleri ucundur yer cekimi ve.s
+
+1. **Mass (Kütle)** – Nesnenin ağırlığını belirler.  
+2. **Drag (Sürüklenme)** – Hareketin yavaşlamasını sağlar.  
+3. **Angular Drag (Açısal Sürüklenme)** – Dönme hareketinin yavaşlamasını sağlar.  
+4. **Use Gravity (Yerçekimi Kullan)** – Yerçekimine tabi olup olmadığını belirler.  
+5. **Is Kinematic** – Fizik motorunu etkisiz hale getirir, manuel hareket ettirmeni sağlar.  
+6. **Constraints (Kısıtlamalar)** – Belirli eksenlerde hareketi/dönmeyi kilitler.  
+
+
+#1 body type - daim tetitke
+#2 simulated - oyun bashlayarken simulate calishacaq
+#3 use auto mass - kutleni auto hesablama
+#4 linear drag - konumsal olaraq suruklenme
+#5 angular drag - suruklenerke donme hereketi
+#6 gravity scale - yer cekimi
+#7 collision detection - carpishmalari hesablayir
+#8 sleeping mode - obje hereketsizken resurslari idare etmek ucundur [start awake]
+#9 constraints - pos rot kisitmalak ucundur
+#10 body type kinematic - hiz ve kuvvetlerden etkilenmez.
+#11 use full kinematic - butun static objelerle etkilener amma iteleme fizik ishleri yoxdu. ancaq etkileshimi yakalamak.
+#11 body type static - hecbir carpishmalara cavab vermir
