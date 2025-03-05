@@ -1,0 +1,17 @@
+constant force
+bir objeye sabit fizik uygulamaq ucundur
+
+@selectors
+bu selectorlarin hamisinda x,y,z cordinatlari var
+#1 force
+#2 relative force
+#3 torque
+#4 relative torque
+
+**Constant Force 2D**'nin temel özellikleri şunlar:  
+
+1. **Force** – Nesneye sürekli uygulanan kuvvet (x, y ekseninde).  
+2. **Relative Force** – Nesnenin kendi eksenine göre sürekli uygulanan kuvvet.  
+3. **Torque** – Nesneye sürekli uygulanan dönme kuvveti (tork).  
+
+🔹 **Constant Force 2D**, nesneye **sürekli bir itme veya çekme kuvveti** uygular. Özellikle **rüzgar efekti** veya **sabit hızla hareket eden nesneler** için kullanılır.  
