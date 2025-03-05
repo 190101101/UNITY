@@ -1,0 +1,69 @@
+@80 Material Texture Shader Mesh 1
+#1 Meshes ana grafik ilkelerindendir bir nesnenin sheklini tanimlarla.
+#2 materials objenin reng tonlari ve daha fazlasini ekleyerek bir yuzeyin nasil olushturulmasi gerektigini tanimlar. veshitli turleri vardir.
+#3 shaders golgelendiricilerdir objenin rengini ayarlamak icin matematiksel ishlemler yaparak golgeyi hesaplar.
+textures dokulardir bir objenin kiyafeti diyebiliriz. objenin kaplanacak yuzeyini belirlemek icin kullanilir. golgelendiriciler hesaplama yapmak icin dokulari kullana bilir.
+#4 shader de standart sectikde oMetallic input ortaya cixir. Standart (specular setup) da ise bu yoxdur.
+#5 Albedo aynasal yansimanin ana rengini kontrol eder. ishiq vurdugu zaman yansayacaq olan reng.
+#6 standart specular setup u sectikte oSpecular inputu acilir. eger yansima ile bir ayar edilmeyecekse bu tovsiye edilir. bu golgelendirici mazemedeki o aynisi yansimanin rengini ve gucunu kontrol ederek ayni o ishiga ve guce gore yansima olushturur.
+#7 material da her hansi bir objenin inspectoruna nezer salsaq main maps var ve textures.com dan bezi tif ext olan image fayllar goturerek istifade etmek olar. meselen oAlbedo adli inputa albedo.tif ile biten fayl gedir...
+
+@81 Material Texture Shader Mesh 2
+#1 materialdaki dokunun meselen albedo nun ctrl + click ile (r,g,b) sini kontrol etmek.
+#2 edit etmek isteyirsense name nin yaninda circle ye click verilen imageni none de etmek olar.
+#3 metalic deki smoothness hamarliliq kontrol edir.
+#4 normal map detaylari daha deqiq gostermek ucundu.
+#5 assets folderin icindeki textures icin maplarina click ederek detaylara baxmaqi unutma.
+
+@82 Material Texture Shader Mesh 3
+#1 forward rendering options da olan specular highlights inputu mobil cihazlar ucun isteye bagli ayardir performansi ciddi derecede artirmaqdadir. bunu disabled etdikte kolgelendirmeni hesablamir ve objeni oldugunu kimi sunur.
+#2 reflections ise ortam yansimalarini devre dishi birakir.
+#3 detail mask daha fazla ayrinti gormek isteyirikse objenin ve dokularin uzerinde bura extra bir maskalamaq etmek olur amma cox istifade olunmur.
+#4 detail mask yerine secondary maps istifade olunur detail albedo x2
+#5 emission objeni renglendirir ve ishiq yaymasini saglayacaq reng kuresine cevirecek. meselen ishiq topu etmek olar ondan.
+#6 emission daki realtime cevresindekilere ishiq yansitma demekdir. baked ise cevresinde dinamic olanlara yansitmir. amma statiklere yansatacaq. none ise her hansi bir ishiq yansitici olmasin demekdir.
+#7 emission altindaki tilling x coxaldigca doku daha siklashir. y coxaldigca y ye dogru siklashir.
+#8 emission altindaki offset ise dokunu dolashdirir ve hizali hale getirir.
+#9 diqqet ele eyni dokunu bir nece defe secme daha agirlashacaq goruntu.
+#10 amma ust uste otuzdursan secondary maps dan sonra tillinge fikir ver.
+
+@83 Material Texture Shader Mesh 4
+#1 rendering mode nin varsayilan deyeri "Opaque" dir. tamamen nesneni gostermek demekdir. eks etdirme bacariqi yoxdur suyun aynanin effekti kimi. qati objelerde Opaque istifade edilmelidir. 
+#2 cutout adeten cemenlik yarpag ve.s sheyler ucun istifade edilir.
+#3 transparent shushe plastik kimi sheyler olushturmaq ucundur.
+#4 namelum sebeblerden outcut mende calishmadi dersin 1 ci deq 14 saniyesinde kimi etdim olmadi. amma transparent calishti hocada daha yaxshi gorunur mende az.
+#5 fade ishiq yansimasini gostermir.
+#6 shaders de adeten standart olur amma bashqa selectorlarada nezer sal!
+
+@84 Material Texture Shader Mesh 5
+#1 textures de albedo .tif fayllarini secerek inspectorda onlara aid settingsler gelir ve orani mutleq gozden kecirmek lazimdir.
+#2 texture type larinda default olur adetene. fikir ver sprite de var aralarinda hamisi map deyil. en altdaki yer daha vacibdir.
+#3 texture type da sprite (2d and U) olan ancaq 2d ucun deyil yeni oyunda point ve health kimi bilgileride gostermek ucun aletdir.
+#4 normal map reng kanallarini gercek zamanli eshlemeye ve donushdurmeyi saglayir.
+#5 editor gui and legasy gui arxa planda resimlerle ilgili bazi denetimler var ust duzey performansda ve.s ishtirak edir. amma cox tercih edilmir cunki byte problemi var. amma menu canvas kimi sheyler de ok.
+#6 cookie ve lightmap adeten ishiqlarla baglidir. sirali doku olushdurmaq ucundur cookie. lightmap ishiq xeritesi kimi bir sheydir.
+#7 single channel ise tek bir resim isteyirikse dokumuzda kanal deyerken rgb nezerde tutulur.
+#8 texture shape de 2d ve cube var texturenin sheklini deyishmemizi saglayir.
+#9 en altdaki sectionda max size 2048 gosterir onu deyishdirmek olar elbetde.
+#10 resite algorithm ise doku max size den daha boyuk olduqda onu kiciltmek ucundur. 
+#11 michell varsayilan bir algoritmdir. linear ise kucuk keskin ayrintilarla baqlidi.
+#12 format ise adeten toxunmuruq her shey auto bash hesablanir.
+#13 compression default olaraq normail quality dedir. low qulity daha cox resurs yeyir mobil ucun istifade edilmir.
+#14 use crunch compression ise dokularin extra biraz daha sikishtirma kullanirken algoritmasinin deyishmesini saglayir.
+
+@85 Material Texture Shader Mesh 6
+#1 textrures de butun dokularcun kullanilan ayar adeten 2d dir.
+#2 texture shape de cube map ise dokuyu kureymish kimi davranaraq toxuya bilir. meselen goy uzu ve.s
+#3 mapping de adeten auto olur ishiqin gelish acisina gore hesablayir.
+#4 convolution type specular ve diffuse optionlari var. specular doku ucun filterleme type ni bizden isteyir.
+#5 texture shape de 2d yerine cube edende textures folderin icinde hemin faylin tipi deyishir ona fikir ver.
+#6 srgb her dokunun veri depolama sistemi var. eger butun ayarlari ozum etdimse buna ehtiyyac yoxdu.
+#7 alpha source dokumuzda movcud renglerin ortalamasini bulur. bir rengin ortaya cikarilmasi demek olar.
+#8 alpha source none olmagi reng kanalinin olmamasi demekdi.
+#9 input ise bu dokunun kendi kanalini istifade etmesidi
+#10 from ise rgb deyerlerinin ortalamasindan ana renglerden ortalamasini ortaya qoyur.
+#11 alpha is transparency kecishlerde yumshaqliq.
+#12 advanced de olan border min maps arxa planda parcalayaraq kicik xeriteler olushturur. cox fazla kullanilmir
+#13 advanced de en onemli kisim read/write enabled dir bu texturun script terefinden erishe bilmemizi saglar. componentlere erishtiyimiz kimi.
+#14 wrap mode dokunun nasil davranacigini belirlememizi saglayir default olaraq repeat dir.
+#15 wrap mode de repeat istifade et. clamp ise bir defe yapishdirir qalan hisseleri uzadir.. yeni size meselesidir.

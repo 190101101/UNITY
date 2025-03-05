@@ -1,0 +1,22 @@
+**Wheel Collider**'in temel özellikleri:  
+
+1. **Mass** – Tekerleğin kütlesi.  
+2. **Radius** – Tekerleğin yarıçapı.  
+3. **Suspension Distance** – Süspansiyonun maksimum mesafesi.  
+4. **Center** – Tekerleğin merkez pozisyonu (yerel koordinatlarda).  
+5. **Suspension Spring** – Süspansiyon yayının sertliği ve sönümleme oranı:  
+   - **Spring** – Yay kuvveti.  
+   - **Damper** – Sönümleme oranı.  
+   - **Target Position** – Süspansiyonun varsayılan pozisyon oranı (0 = tamamen açık, 1 = tamamen sıkışmış).  
+6. **Forward Friction** – İleri yöndeki sürtünme özellikleri:  
+   - **Extremum Slip** – Maksimum sürtünme sağlanan hız farkı.  
+   - **Extremum Value** – Maksimum sürtünme kuvveti.  
+   - **Asymptote Slip** – Sürtünmenin düştüğü hız farkı.  
+   - **Asymptote Value** – Düşük sürtünme kuvveti.  
+   - **Stiffness** – Sürtünme kuvvetinin genel ölçeği.  
+7. **Sideways Friction** – Yan yöndeki sürtünme özellikleri (aynen ileri sürtünmesi gibi).  
+8. **Motor Torque** – Tekerleğe uygulanan motor gücü.  
+9. **Brake Torque** – Tekerleğe uygulanan fren gücü.  
+10. **Steer Angle** – Tekerleğin dönme açısı.  
+
+**Wheel Collider**, fizik bazlı araç hareketleri için kullanılır ve yerçekimi, süspansiyon ve sürtünme gibi gerçekçi araba hareketlerini simüle eder.
