@@ -85,3 +85,12 @@ textures dokulardir bir objenin kiyafeti diyebiliriz. objenin kaplanacak yuzeyin
 #13 sprite editor birden fazla spriteni birleshdirerek editorda istifade etmek olar ammma ilk once package managerden endirmek lazimdir.
 #14 package managere daxil olmaq ucun main menudan windowa click sonra package manager.
 #15 bu arada material in uzerine basaraq inspectorda sagda ashagi hissede doku hansi figurlarda nece gorunecek deye clickleyib baxmaq olar.
+
+@87 Material Texture Shader Mesh 8
+#1 main menudan window asset store den 2d sprites download sonra ise import.
+#2 her hansi spriteni secib menuden custom outline sectik
+#3 mouse click edib surushdurende meselen windowda fayllari secmek kimi.. spritenin etrafinda anchor lar yaranir. polygon mentiqi ile.. sonra ise generate ye click.
+#4 outline tolerance selectorundan ise bunun daha ince ve derin pixel calishmaq olar. ve butun bunlari edenden sonra apply save edirik.
+#5 her hansi spritenin icinde polygon olushtura bilirik.
+#6 butun bunlar sprite editor icinde olur ve slice menusundan spriteni bolmek olur pixellere.
+#7 secondary textures de list cixir ora texture atmaq olurmush. 8 deneye qeder atmaq olar.

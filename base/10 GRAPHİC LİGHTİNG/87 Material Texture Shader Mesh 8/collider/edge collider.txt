@@ -1,0 +1,6 @@
+Edge Collider
+
+#1 objenin etrafinda istediyimiz cizgini ceke bilirik
+meselen square sprite de 4 kunc olur ve onun butun xett ile ortmek olar. noqte qoyaraq
+
+#2 points selectorunda element kordinat pos larini gormek olar

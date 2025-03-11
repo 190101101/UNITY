@@ -1,0 +1,10 @@
+**Surface Effector 2D**'nin temel özellikleri:  
+
+1. **Speed** – Nesnelerin yüzey boyunca hareket edeceği hız.  
+2. **Speed Variation** – Hızın rastgele değişim oranı.  
+3. **Force Scale** – Kuvvetin nesneye uygulanma oranı.  
+4. **Use Contact Force** – Nesnelerin temas ettiği noktada kuvvet uygulanmasını sağlar.  
+5. **Use Bounce** – Nesnelerin yüzeye çarptığında sıçrayıp sıçramayacağını belirler.  
+6. **Use Collider Mask** – Hangi nesnelerin etkilenip etkilenmeyeceğini belirlemek için katman maskesi kullanır.  
+
+**Surface Effector 2D**, bir yüzey üzerinde temas eden nesnelere **otomatik hareket** veya **sürtünme kuvveti** uygular (örneğin hareketli bant efekti).

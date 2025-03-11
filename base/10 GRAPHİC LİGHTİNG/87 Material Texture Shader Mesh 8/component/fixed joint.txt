@@ -1,0 +1,23 @@
+@fixed joint
+#iki obje 1 ne jointi veririk o birine rigidbody ve joint olana ise rigidbody objeni baglayiriq;
+
+break force
+break torque
+enable collision = carpishmalari yakalamak icin;
+enable prepocessin = arka planda fizik hesablamasi;
+mass scale = kutle gucu;
+
+Connected Body – Bağlanacak Rigidbody’yi belirler.
+Break Force – Belirtilen kuvvet aşılırsa bağlantıyı koparır.
+Break Torque – Belirtilen dönme kuvveti (tork) aşılırsa bağlantıyı koparır.
+Enable Collision – Bağlı nesnelerin çarpışmasını açar/kapatır.
+
+2D
+
+Connected Rigidbody – Bağlanacak Rigidbody2D’yi belirler.
+Auto Configure Connected Anchor – Bağlantı noktasını otomatik ayarlar.
+Anchor – Bağlantı noktasını manuel belirler.
+Damping Ratio – Titreşimi azaltan sürtünme kuvveti.
+Frequency – Bağlantının esnekliğini ayarlar (sıfır olursa tamamen sabit olur).
+Break Force – Aşılırsa bağlantıyı koparan kuvvet limiti.
+Break Torque – Aşılırsa bağlantıyı koparan dönme kuvveti limiti.
