@@ -1,0 +1,9 @@
+friction joint
+
+1. **Connected Rigidbody** – Bağlanacak **Rigidbody2D**’yi belirler.  
+2. **Max Force** – Maksimum sürtünme kuvveti (hareketi yavaşlatır).  
+3. **Max Torque** – Maksimum dönme sürtünmesi (dönmeyi yavaşlatır).  
+4. **Anchor** – Bağlantı noktasını belirler.  
+5. **Auto Configure Connected Anchor** – Bağlantı noktasını otomatik ayarlar.  
+
+🔹 **Friction Joint 2D**, iki nesne arasındaki sürtünmeyi artırarak **hareketin ve dönüşün yavaşlamasını sağlar.**  

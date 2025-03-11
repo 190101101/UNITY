@@ -1,0 +1,3 @@
+ctrl + a = add component
+ctrl + alt kamera ile tez hereket etmek
+ctrl + 9 asset store

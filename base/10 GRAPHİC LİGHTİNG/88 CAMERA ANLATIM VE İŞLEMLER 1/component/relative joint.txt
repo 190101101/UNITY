@@ -1,0 +1,18 @@
+relative joint
+
+**Relative Joint 2D**'nin temel özellikleri şunlar:  
+
+1. **Connected Rigidbody** – Bağlanacak **Rigidbody2D**’yi belirler.  
+2. **Anchor** – Eklem noktalarını belirler (bağlantı noktası).  
+3. **Auto Configure Connected Anchor** – Bağlantı noktasını otomatik ayarlar.  
+4. **Linear Limit** – Doğrusal (x, y, z) hareket sınırlarını belirler.  
+5. **Angular Limit** – Dönme (açı) hareket sınırlarını belirler.  
+6. **Spring** – Bağlantıya yay kuvveti ekler.  
+7. **Damper** – Yay hareketini azaltan sürtünme kuvveti ekler.  
+
+🔹 **Relative Joint 2D**, iki nesneyi birbirine bağlar, ama **relative (bağlantılı) bir hareket** sağlar. Bu, nesnelerin birbirlerine göre belirli bir şekilde hareket etmelerini sağlar.  
+
+
+#1 obje 1 rigid body static olmalidirki goyde qalsinki ondan sallanan obje 2 hereket ede bilsin. yeni obje 1 x istigametde terpet bir defe xett cizsin.
+
+#2 eger kontrol relative joint tam olmasini isteyirsense rigid body de gravity scale ni 0 et.
