@@ -1,0 +1,6 @@
+distance joint
+
+#1 iki objenin bir birine belli bir mesafede bagli kalmasini sagliyor
+#2 auto configure disabled edib distance ni ozun vere bilersen
+#3 max disntance yede fikir ver.
+#4 break force ye verilen deyer aralarindaki bagi qopardir.

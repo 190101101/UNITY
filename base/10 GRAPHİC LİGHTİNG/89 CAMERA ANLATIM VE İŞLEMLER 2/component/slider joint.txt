@@ -1,0 +1,22 @@
+@slider joint
+
+
+**Slider Joint 2D**'nin temel özellikleri şunlar:
+
+1. **Connected Rigidbody** – Bağlanacak **Rigidbody2D**'yi belirler.  
+2. **Anchor** – Bağlantı noktasını belirler (hareketin başladığı nokta).  
+3. **Auto Configure Connected Anchor** – Bağlantı noktasını otomatik olarak ayarlar.  
+4. **Use Limits** – Limitleri aktif hale getirir, belirli bir mesafeyi aşmasını engeller.  
+   - **Lower Limit** – Kaydırmanın minimum mesafesi.  
+   - **Upper Limit** – Kaydırmanın maksimum mesafesi.  
+5. **Use Motor** – Motoru aktif hale getirir, kaydırmayı hızlandıran bir kuvvet uygular.  
+   - **Motor Speed** – Motorun hızını ayarlar.  
+   - **Max Motor Force** – Motorun uygulayacağı maksimum kuvveti ayarlar.  
+6. **Spring** – Kaydırmayı yavaşlatan veya hızlandıran yay kuvvetini ayarlar.  
+7. **Damper** – Yay kuvvetinin etkisini yavaşlatan sürtünme kuvveti.
+
+🔹 **Slider Joint 2D**, iki nesneyi **bir eksende** hareket etmelerini sağlayacak şekilde bağlar. Bu, özellikle **kaydırmalı mekanizmalar** (örneğin bir piston veya kayar kapı) için kullanılır.
+
+
+#1 slider joint de use motor u enabled etmek unutma.
+#2 slider joint de her hansi bir yere carpana qeder dum du gedecek.
