@@ -1,4 +1,4 @@
 cd ~/Desktop/Unity/Laboratory
 git add .
-git commit -m "89 CAMERA ANLATIM VE İŞLEMLER 2"
+git commit -m "90 OCCLUSİON CULLİNG FRUSTUM CULLİNG 1"
 git push

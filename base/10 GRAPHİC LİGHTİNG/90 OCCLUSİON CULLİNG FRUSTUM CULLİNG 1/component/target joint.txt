@@ -1,0 +1,13 @@
+target joint
+
+**Target Joint 2D**'nin temel özellikleri şunlar:  
+
+1. **Anchor** – Nesnenin kendi üzerindeki bağlantı noktasını belirler.  
+2. **Target** – Nesnenin çekileceği hedef noktayı belirler (**dünya koordinatında**).  
+3. **Max Force** – Uygulanacak maksimum çekme kuvveti.  
+4. **Damping Ratio** – Sürtünme oranı, nesnenin hedefe giderken ne kadar yavaşlayacağını belirler.  
+5. **Frequency** – Yay kuvveti gibi çalışır, nesnenin hedefe ne kadar hızlı ulaşacağını kontrol eder.  
+
+🔹 **Target Joint 2D**, nesneyi **hedef noktaya çekmek** için kullanılır. Genellikle mıknatıs gibi bir çekme etkisi oluşturmak için idealdir.  
+
+#1 target her hangi bir objeyi dikkate almadan belirli bir hedefe baglanir.

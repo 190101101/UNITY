@@ -1,0 +1,15 @@
+**Area Effector 2D**'nin temel özellikleri:  
+
+1. **Force Angle** – Kuvvetin yönünü belirler (derece cinsinden).  
+2. **Force Magnitude** – Uygulanan kuvvetin büyüklüğü.  
+3. **Force Variation** – Kuvvetin rastgele değişim oranı.  
+4. **Drag** – Sürtünme kuvveti, nesnenin hızını yavaşlatır.  
+5. **Angular Drag** – Dönme sürtünmesi, nesnenin dönme hızını azaltır.  
+6. **Use Global Angle** – Kuvvetin dünya eksenine göre mi, yoksa nesneye göre mi uygulanacağını belirler.  
+
+**Area Effector 2D**, belirli bir alana giren nesnelere sürekli bir kuvvet uygular (örneğin rüzgar veya su akışı efekti).
+
+area effectoru kullanmak icin box colliderde is trigger ve used by effectoru enabled etmek vacibdir.
+
+area effector
+damping - drag fikir vermek lazim objeleri tam tuta bilsin
