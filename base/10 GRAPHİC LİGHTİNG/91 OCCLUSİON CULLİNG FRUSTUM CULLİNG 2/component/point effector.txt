@@ -1,0 +1,11 @@
+**Point Effector 2D**'nin temel özellikleri:  
+
+1. **Force Magnitude** – Uygulanan kuvvetin büyüklüğü.  
+2. **Force Variation** – Kuvvetin rastgele değişim oranı.  
+3. **Use Global Angle** – Kuvvetin dünya eksenine göre mi, yoksa nesneye göre mi uygulanacağını belirler.  
+4. **Angle** – Kuvvetin uygulandığı açıyı belirler.  
+5. **Distance Scale** – Kuvvetin mesafeye bağlı olarak ne kadar azalacağını belirler.  
+6. **Drag** – Sürtünme kuvveti, nesnenin hızını yavaşlatır.  
+7. **Angular Drag** – Dönme sürtünmesi, nesnenin dönme hızını azaltır.  
+
+**Point Effector 2D**, belirli bir noktada etki oluşturarak çevresindeki nesnelere kuvvet uygular. Bu, **çekim** veya **itme** gibi etkiler yaratmak için kullanılır.
