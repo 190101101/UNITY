@@ -1,0 +1,1 @@
+#1 open enable ise qapi aciq sayilir ve arxasindaki her shey occlusion da hesablanir.

@@ -1,0 +1,11 @@
+@78 2D EFFECTORS 3
+#1 point effector istifade edende box colliderde is trigger enabled et.
+
+@79 2D Sorting and Layers
+#1 objenin inspectorunden layer selectorundan transparent edib kameranin inspectorundan culling mask var orada neleri diqqete almaq lazim oldugu var.. eger transparenti disabled etsen obje oyun zamani gorunmeyecek.
+#2 objenin inspectorunden layer e click ederek add layere kecid et ve yeni layer yarat.
+#3 objenin layer selectorundan o yaradilmish layeri secmek olar.
+#4 plane ye surface effector elave etdikden sonra layeri gold olan objenin hereketsiz qalmasi ucun plane de collider mask selectorundan gold u disabled etdim. butun objeler terpendi o ise ashagi dogru dushdu.
+#5 inspectordan sprite renderer selectorunda additional settings var order in layers e diqqet.. css deki index rolunu oynayirmish kimi davranir yeni bu bunun onunde ve ya arxasinda dursun. adeten 2d oyunlarda platforma arxada gunesh onde agaclar ve.s
+#5 square sprite yaradaraq ona order in layer de -1 verdim ve arxa plan etdim
+#6 bg olan spriteden add sorting layer ederek ozune mexsus layer yaratmaq olar.
